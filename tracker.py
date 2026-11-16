@@ -445,7 +445,7 @@ def merge_jobs(old_jobs, incoming, today, successful, online):
 
 def write_csv(jobs):
     fields = ["score", "company", "company_type", "title", "location", "category", "tags",
-              "citizenship_requirement", "export_control", "security_clearance", "visa_sponsorship",
+              "citizenship_requirement", "export_control", "security_clearance",
               "eligibility_evidence", "posted_at", "first_seen", "last_seen", "opening", "source", "url"]
     with (DOCS / "internships.csv").open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
