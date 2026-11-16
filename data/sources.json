@@ -9,13 +9,53 @@
     "Parallel Systems": "parallel",
     "General Matter": "generalmatter",
     "HP IQ": "hpiq",
-    "DLR Group": "dlrgroup"
+    "DLR Group": "dlrgroup",
+    "Muon Space": "muonspace",
+    "Pacific Fusion": "pacificfusion",
+    "Stoke Space": "stokespacetechnologies"
   },
-  "ashby": {"Skydio": "Skydio"},
-  "lever": {},
+  "ashby": {
+    "Skydio": "Skydio",
+    "Antares": "Antares",
+    "Northwood Space": "NorthwoodSpace",
+    "Revel": "revel",
+    "Etched": "etched",
+    "Heron Power": "heron-power",
+    "Apex Technology": "apex-technology-inc"
+  },
+  "lever": {
+    "Shield AI": "shieldai",
+    "Hermeus": "hermeus",
+    "Xcimer Energy": "xcimer",
+    "Layup Parts": "layup"
+  },
   "community": {
     "Hardware Jobs (TrakkerHQ)": "https://raw.githubusercontent.com/TrakkerHQ/hardware-jobs/main/README.md",
     "Hardware Internships 2027": "https://raw.githubusercontent.com/Khushsj30/hardware-internships-2027/main/README.md",
     "Simplify Summer 2027": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md"
-  }
+  },
+  "startup_watchlist": [
+    "Antares",
+    "Apex Technology",
+    "Astranis",
+    "Dispatch",
+    "Etched",
+    "Freeform",
+    "General Matter",
+    "Hermeus",
+    "Heron Power",
+    "HP IQ",
+    "K2 Space",
+    "Layup Parts",
+    "Muon Space",
+    "Northwood Space",
+    "Pacific Fusion",
+    "Parallel Systems",
+    "Preload",
+    "Revel",
+    "Shield AI",
+    "Skydio",
+    "Stoke Space",
+    "Xcimer Energy"
+  ]
 }

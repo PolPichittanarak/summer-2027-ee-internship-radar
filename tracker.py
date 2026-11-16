@@ -43,8 +43,17 @@ SUMMER_2027 = re.compile(r"\b(?:summer[\s/\-]*2027|2027[\s/\-]*summer|summer\s*[
 SUMMER_DATES = re.compile(r"\b(?:may|june|july|august|sept(?:ember)?)\s*(?:/|to|-|–|and)?\s*(?:may|june|july|august|sept(?:ember)?)?\s*2027\b", re.I)
 EXCLUDED_ROLES = re.compile(r"\b(new grad|graduate engineer|senior|staff|principal|director|marketing|finance|sales|recruiting|legal|civil engineering|structural engineering|front.?end|backend developer)\b", re.I)
 EE_RELEVANCE = re.compile(r"electrical|electronic|hardware|power|circuit|signal|semiconductor|silicon|analog|mixed.signal|rf\b|photon|optical|fpga|asic|rtl|embedded|firmware|avionic|validation|verification|instrumentation|controls|autonom|robot|sensor|test engineer|reliability|manufacturing engineer|design engineering|systems engineering|battery|motor|i&c", re.I)
-STRICT_ELIGIBILITY = re.compile(r"(?:must (?:be|hold|have) (?:a )?u\.?s\.? citizen|us citizenship or green card|u\.?s\.? citizen(?:ship)? (?:or|and) (?:lawful )?permanent residen|citizenship(?:\s+is)? required|active (?:security )?clearance required|only us citizens|us persons? only)", re.I)
-EXPORT_REVIEW = re.compile(r"\b(itar|export control|u\.?s\.? person|security clearance|citizenship requirements)\b", re.I)
+# Conservative, independent signals: ITAR is an export regulation, NOT a security clearance.
+# Never interpret missing language as permission to work on an F-1 visa.
+EXPORT_REGULATION = re.compile(r"\b(?:ITAR|EAR|export[- ]control(?:led|s)?|export regulations?)\b", re.I)
+CLEARANCE_WORD = re.compile(r"\b(?:security clearance|[QTS] clearance|secret clearance|top secret|TS/SCI)\b", re.I)
+US_PERSON_WORD = re.compile(r"\b(?:U\.?S\.?[ -]?person|lawful permanent resident|green card|protected individual|refugee|asylee)\b", re.I)
+CITIZEN_WORD = re.compile(r"\b(?:U\.?S\.? citizenship|U\.?S\.? citizen(?:ship|s)?|United States citizen(?:ship|s)?)\b", re.I)
+LICENSE_PATH = re.compile(r"(?:or|otherwise|alternatively|\(C\)).{0,145}(?:export (?:authorization|licen[sc]e)|required authorizations? from (?:the )?U\.?S\.?|eligible to (?:obtain|access) (?:the )?export[- ]controlled)",re.I)
+MANDATORY = re.compile(r"\b(?:must|require[ds]?|mandatory|only|eligible to|eligibility to|shall)\b",re.I)
+NO_SPONSORSHIP = re.compile(r"(?:do(?:es)? not|will not|cannot|unable to|no) (?:provide|offer|support|require)?\s*(?:visa|employment|immigration)?\s*sponsor(?:ship)?|sponsorship (?:is )?not available",re.I)
+YES_SPONSORSHIP = re.compile(r"(?:visa|employment) sponsorship (?:is )?(?:available|provided|supported)|(?:can|will) sponsor (?:qualified |eligible )?(?:applicants|candidates)",re.I)
+NOT_REQUIRED_CLEARANCE = re.compile(r"(?:security )?clearance (?:is )?not required|no (?:security )?clearance required|does not require (?:a )?(?:security )?clearance",re.I)
 
 
 def clean(s):
@@ -131,12 +140,97 @@ def score_fit(title, desc):
     return score, primary, [c for _, c in values[:4]]
 
 
-def detect_eligibility(desc, existing=""):
-    if STRICT_ELIGIBILITY.search(desc):
-        return "US citizen/green card required — verify exact wording"
-    if EXPORT_REVIEW.search(desc):
-        return "Export control — verify"
-    return existing or "Not specified — verify"
+def detect_restrictions(description, legacy=""):
+    """Extract signals, not a legal eligibility determination.
+
+    Look for requirements near the actual citizenship phrase to reduce matches to
+    boilerplate EEO language. Unknown means NOT STATED, never automatically eligible.
+    """
+    desc = clean(description)
+    controls = bool(EXPORT_REGULATION.search(desc))
+    person_matches = list(CITIZEN_WORD.finditer(desc)) + list(US_PERSON_WORD.finditer(desc))
+    # Demand an actual requirement in the vicinity of citizenship text, not a broad
+    # 'may require export-controlled access' elsewhere in the description.
+    required = False
+    for m in person_matches:
+        before = desc[max(0,m.start()-110):m.start()]
+        after = desc[m.end():min(len(desc),m.end()+105)]
+        if re.search(r"\b(?:must (?:(?:therefore )?(?:either )?be|hold|have)|only|requires? (?:that )?(?:applicants?|candidates?|employees?)? ?(?:to )?be|applicants? must be|candidates? must be)\b",before,re.I):
+            required = True
+        if re.search(r"\b(?:is|are|status)? ?required\b|\b(?:only|mandatory)\b",after,re.I):
+            required = True
+        if re.search(r"\b(?:only|must be)\s+U\.?S\.?\s*citizens?\b",desc,re.I):
+            required = True
+    negated = bool(re.search(r"(?:U\.?S\.? citizenship|U\.?S\.? citizen(?:ship)?)\s+(?:is )?not required|not require(?:d)?\s+U\.?S\.? citizenship",desc,re.I))
+    # A question such as 'Are you a US citizen?' is not a restriction.
+    # An 'or eligible for license' clause is NOT a US-person-only restriction.
+    has_export_alternative = bool(re.search(r"(?:or|otherwise|alternatively|\(C\)).{0,190}(?:export.{0,35}(?:authorization|licen[sc]e)|required authorizations? from|federally issued export|eligible to access the export[- ]controlled)",desc,re.I)) or bool(re.search(r"eligible (?:and reasonably likely )?to (?:obtain|receive) (?:the )?required (?:export )?authorization",desc,re.I))
+    citizen = "Not stated"
+    if required and person_matches and not negated:
+        if has_export_alternative:
+            citizen = "U.S. person OR export authorization"
+        elif US_PERSON_WORD.search(desc) or bool(re.search(r"citizen(?:ship)?\s+or\s+(?:green card|permanent resident)", desc,re.I)):
+            citizen = "U.S.-person / protected status required"
+        else:
+            citizen = "U.S. citizenship required"
+    elif negated:
+        citizen = "Citizenship not required (stated)"
+    # Explicitly distinguish a citizenship-based clearance condition.
+    clearance = "Not stated"
+    if NOT_REQUIRED_CLEARANCE.search(desc):
+        clearance = "Not required (stated)"
+    elif CLEARANCE_WORD.search(desc):
+        if re.search(r"(?:may|might|could) require.{0,65}clearance",desc,re.I):
+            clearance = "May be required"
+        elif re.search(r"(?:requires?|must|eligibility to obtain|ability to obtain).{0,115}(?:security |[QTS] )?clearance",desc,re.I):
+            clearance = "Required / must be eligible"
+        elif re.search(r"(?:active|current) .{0,30}clearance (?:is )?(?:required|mandatory)",desc,re.I):
+            clearance = "Required / must be eligible"
+        else:
+            clearance = "Mentioned — verify"
+    if clearance == "Required / must be eligible" and citizen == "Not stated" and re.search(r"U\.?S\.? citizenship.{0,60}(?:required|must)|(?:requirement|includes).{0,95}U\.?S\.? citizenship",desc,re.I):
+        citizen = "U.S. citizenship required"
+    export = "ITAR/EAR controls mentioned" if controls and re.search(r"\bITAR\b|\bEAR\b",desc,re.I) else ("Export controls mentioned" if controls else "Not stated")
+    sponsorship = "Not stated"
+    if NO_SPONSORSHIP.search(desc):
+        sponsorship = "No sponsorship"
+    elif YES_SPONSORSHIP.search(desc):
+        sponsorship = "Sponsorship mentioned as available"
+    elif re.search(r"(?:will you|do you|require|need).{0,55}sponsorship",desc,re.I):
+        sponsorship = "Application asks — verify"
+    # Old manually seeded labels are unverified snapshots of the specific role.
+    # Show a review prompt rather than upgrading these to confirmed restrictions.
+    if not desc and legacy:
+        if re.search(r"citizen|green card",legacy,re.I) and not re.search(r"(?:not required|not necessary)", legacy, re.I):
+            citizen = "Possible U.S.-person restriction — verify"
+        if re.search(r"ITAR|export|defense",legacy,re.I):
+            export = "Review export restrictions"
+        if re.search(r"clearance",legacy,re.I):
+            clearance = "Mentioned — verify"
+    # Evidence extracts are deliberately short and attach to a link to the source.
+    signals = re.compile(r"\b(?:ITAR|EAR|export control|citizenship|citizen|U\.?S\.? person|permanent resident|security clearance|sponsorship)\b",re.I)
+    snippets = []
+    for m in signals.finditer(desc):
+        snippet = desc[max(0,m.start()-65):min(len(desc),m.end()+115)]
+        snippet = clean(snippet)
+        if snippet and snippet not in snippets:
+            snippets.append(snippet)
+        if len(snippets)>=2:break
+    return {"citizenship_requirement":citizen, "export_control":export,
+            "security_clearance":clearance, "visa_sponsorship":sponsorship,
+            "eligibility_evidence":" … ".join(snippets)[:345] if snippets else ("Starter snapshot flag only; check employer posting" if legacy else "No explicit requirement found in available description")}
+
+
+def detect_eligibility(description, existing=""):
+    """Legacy API retained for older callers; richer fields are in detect_restrictions."""
+    flags=detect_restrictions(description,existing)
+    return flags["citizenship_requirement"] if flags["citizenship_requirement"] != "Not stated" else flags["export_control"]
+
+
+def is_startup_watch(company):
+    """Curated emerging-company watchlist; not a claim about employer headcount."""
+    conf=read_json(DATA / "sources.json", {})
+    return clean(company).casefold() in {clean(x).casefold() for x in conf.get("startup_watchlist", [])}
 
 
 def normalized_job(job, source, today, first_seen=None):
@@ -145,12 +239,15 @@ def normalized_job(job, source, today, first_seen=None):
     if not title or not url.startswith("https://") or not summer_ok(title, desc, job.get("context", "")):
         return None
     score, category, tags = score_fit(title, desc)
+    flags = detect_restrictions(job.get("description") or "", job.get("eligibility", ""))
     return {
         "id": stable_id(url), "company": clean(job.get("company") or "Unknown"), "title": title,
         "location": clean(job.get("location") or "Location unspecified"), "url": url_key(url),
         "source": source, "source_key": job.get("source_key", ""),
         "summary": desc[:450], "score": score, "category": category, "tags": tags,
-        "eligibility": detect_eligibility(clean(job.get("description")), job.get("eligibility", "")),
+        "eligibility": job.get("eligibility", "") or "See restriction columns",
+        **flags,
+        "company_type": "Startup watch" if is_startup_watch(job.get("company", "")) else "Other / discovered",
         "posted_at": as_date(job.get("posted_at")), "first_seen": first_seen or today,
         "last_seen": today, "opening": "Listed", "misses": 0,
     }
@@ -316,12 +413,21 @@ def merge_jobs(old_jobs, incoming, today, successful, online):
                     if len(prev.get("summary", "")) > len(normalized.get("summary", "")):
                         normalized["summary"] = prev["summary"]
                         normalized["score"], normalized["category"], normalized["tags"] = score_fit(normalized["title"], prev["summary"])
-                if prev.get("eligibility", "").startswith(("US citizen", "Defense", "Export", "Sensitive", "Degree")) and normalized["eligibility"] == "Not specified — verify":
-                    normalized["eligibility"] = prev["eligibility"]
+                # Never overwrite strong employer wording with blank community-feed data.
+                if normalized.get("eligibility_evidence", "").startswith("No explicit") and prev.get("eligibility_evidence", "").startswith("No explicit") is False:
+                    for field in ("citizenship_requirement", "export_control", "security_clearance", "visa_sponsorship", "eligibility_evidence"):
+                        if prev.get(field):
+                            normalized[field] = prev[field]
+                normalized["company_type"] = "Startup watch" if is_startup_watch(normalized["company"]) else "Other / discovered"
                 by_id[jobid] = normalized
             else:
                 by_id[jobid] = normalized
                 new_jobs.append(normalized)
+    # Upgrade stored rows produced by older versions without inventing eligibility.
+    for j in by_id.values():
+        if "citizenship_requirement" not in j:
+            j.update(detect_restrictions("", j.get("eligibility", "")))
+        j["company_type"] = "Startup watch" if is_startup_watch(j.get("company", "")) else "Other / discovered"
     if online:
         for j in by_id.values():
             if j["id"] in observed:
@@ -338,7 +444,9 @@ def merge_jobs(old_jobs, incoming, today, successful, online):
 
 
 def write_csv(jobs):
-    fields = ["score", "company", "title", "location", "category", "tags", "eligibility", "posted_at", "first_seen", "last_seen", "opening", "source", "url"]
+    fields = ["score", "company", "company_type", "title", "location", "category", "tags",
+              "citizenship_requirement", "export_control", "security_clearance", "visa_sponsorship",
+              "eligibility_evidence", "posted_at", "first_seen", "last_seen", "opening", "source", "url"]
     with (DOCS / "internships.csv").open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
         w.writerow(fields)
@@ -395,7 +503,8 @@ def main():
     incoming, statuses, successful = [], [], set()
     if not args.offline:
         conf = read_json(DATA / "sources.json", {})
-        requests_list = [(kind, company, slug) for kind, entries in conf.items() for company, slug in entries.items()]
+        supported = ("greenhouse", "ashby", "lever", "community")
+        requests_list = [(kind, company, slug) for kind, entries in conf.items() if kind in supported for company, slug in entries.items()]
         with ThreadPoolExecutor(max_workers=6) as pool:
             futures = {pool.submit(gather_one, kind, company, slug): (kind, company, slug) for kind, company, slug in requests_list}
             for fut in as_completed(futures):
@@ -418,7 +527,7 @@ def main():
     meta = {"scan_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC") if not args.offline else "Starter snapshot: November 16, 2026",
             "year": CURRENT_YEAR, "scanned": not args.offline, "source_ok": sum(s["status"] == "OK" for s in statuses),
             "source_total": len(statuses), "listed": sum(j["opening"] == "Listed" for j in jobs), "total": len(jobs),
-            "note": "First seen = first discovered here, not original publication date. Confirm openings and eligibility on employer sites."}
+            "note": "First seen = discovered, not posted. Export controls are not a security clearance. Flags come from employer wording when available; verify work eligibility directly."}
     save_json(DATA / "jobs.json", jobs)
     save_json(DATA / "source_status.json", statuses)
     save_json(DOCS / "meta.json", meta)

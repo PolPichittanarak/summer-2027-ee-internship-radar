@@ -50,3 +50,10 @@ For employers with Workday-only careers pages, add a curated feed or implement t
 - GitHub scheduled workflows can be delayed and can be disabled after 60 days without repository activity on some public repos. Check **Actions** occasionally.
 - GitHub repositories storing jobs may have additional terms/licenses; only normalized job facts and links are used, not their long original descriptions.
 - This tracker makes **no applications automatically**. Open the official employer listing and confirm location, term, school year and work authorization.
+
+## New in v2 — light theme, work-authorization signals, startup discovery
+- The dashboard and generated CSV now contain separate **U.S. citizenship/U.S.-person**, **ITAR/EAR export rules**, **security clearance**, and **visa sponsorship** fields. ITAR is not a security clearance. These are *textual signals*, not legal determinations; **Not stated** does not mean eligible.
+- A **Startup watch** filter highlights curated emerging companies. The monitored boards now include Antares, Northwood Space, Muon Space, Pacific Fusion, Revel, Etched, Hermeus, Shield AI, Xcimer, and others, in addition to existing larger employers. The community feeds can surface additional companies without manually adding their boards.
+- It is impossible to monitor companies that have not yet published jobs or a public career page. New startups that become publicly listed through monitored job feeds can appear automatically; complete stealth-company discovery is not promised.
+- Startup labels are a curated radar category, not verified company-size data.
+- Compliance wording may change; always open the original posting. An export authorization path may exist but is not guaranteed or automatically granted. Work authorization as an international student is a separate issue.
