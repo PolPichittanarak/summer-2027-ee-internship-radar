@@ -1,0 +1,21 @@
+{
+  "greenhouse": {
+    "SpaceX": "spacex",
+    "K2 Space": "k2spacecorporation",
+    "Freeform": "freeformfuturecorp",
+    "Rocket Lab": "rocketlab",
+    "Anduril": "andurilindustries",
+    "Astranis": "astranis",
+    "Parallel Systems": "parallel",
+    "General Matter": "generalmatter",
+    "HP IQ": "hpiq",
+    "DLR Group": "dlrgroup"
+  },
+  "ashby": {"Skydio": "Skydio"},
+  "lever": {},
+  "community": {
+    "Hardware Jobs (TrakkerHQ)": "https://raw.githubusercontent.com/TrakkerHQ/hardware-jobs/main/README.md",
+    "Hardware Internships 2027": "https://raw.githubusercontent.com/Khushsj30/hardware-internships-2027/main/README.md",
+    "Simplify Summer 2027": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md"
+  }
+}
