@@ -1,10 +1,10 @@
 {
-  "scan_utc": "2026-11-16 21:49 UTC",
+  "scan_utc": "2026-11-16 22:37 UTC",
   "year": 2027,
   "scanned": true,
-  "source_ok": 14,
-  "source_total": 14,
-  "listed": 160,
-  "total": 168,
-  "note": "First seen = first discovered here, not original publication date. Confirm openings and eligibility on employer sites."
+  "source_ok": 27,
+  "source_total": 27,
+  "listed": 210,
+  "total": 218,
+  "note": "First seen = discovered, not posted. Export controls are not a security clearance. Flags come from employer wording when available; verify work eligibility directly."
 }
