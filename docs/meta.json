@@ -1,10 +1,10 @@
 {
-  "scan_utc": "Starter snapshot: November 16, 2026",
+  "scan_utc": "2026-11-16 21:49 UTC",
   "year": 2027,
-  "scanned": false,
-  "source_ok": 0,
-  "source_total": 0,
-  "listed": 0,
-  "total": 18,
+  "scanned": true,
+  "source_ok": 14,
+  "source_total": 14,
+  "listed": 160,
+  "total": 168,
   "note": "First seen = first discovered here, not original publication date. Confirm openings and eligibility on employer sites."
 }
