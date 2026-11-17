@@ -1236,7 +1236,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "8c3e6ad1864c5c3e",
@@ -2731,7 +2731,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "687d05e92c1de7f2",
@@ -2893,6 +2893,33 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Listed",
+    "misses": 1
+  },
+  {
+    "id": "ba4d42629ca76886",
+    "company": "Raytheon",
+    "title": "Hardware in the Loop Engineering Intern - (Summer 2027)",
+    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 50,
+    "category": "Broad EE",
+    "tags": [
+      "Broad EE"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "opening": "Listed",
     "misses": 0
   },
   {
@@ -2974,7 +3001,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "04191c8605c2e194",
@@ -3279,33 +3306,6 @@
     "last_seen": "2026-11-17",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "b8a725c6c768ed1d",
-    "company": "Rocket Lab",
-    "title": "Optical Engineering Intern Summer 2027",
-    "location": "Tucson, AZ",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992102003",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:rocketlab",
-    "summary": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity’s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As an&nbsp;Optical&nbsp;Engineering Intern based at Rocket Lab’s site in&nbsp;Tucson, Arizona, you will have the opp",
-    "score": 48,
-    "category": "Photonics / RF",
-    "tags": [
-      "Photonics / RF"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "ations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), o … in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitte",
-    "company_type": "Other / discovered",
-    "posted_at": "2026-09-17",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-16",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "78698d1ed1ae7686",
@@ -4297,7 +4297,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "5946b64d9b1e27a1",
@@ -6066,6 +6066,33 @@
     "visa_sponsorship": "Not stated",
     "eligibility_evidence": "Starter snapshot flag only; check employer posting",
     "company_type": "Startup watch"
+  },
+  {
+    "id": "b8a725c6c768ed1d",
+    "company": "Rocket Lab",
+    "title": "Optical Engineering Intern Summer 2027",
+    "location": "Tucson, AZ",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992102003",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:rocketlab",
+    "summary": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity’s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As an&nbsp;Optical&nbsp;Engineering Intern based at Rocket Lab’s site in&nbsp;Tucson, Arizona, you will have the opp",
+    "score": 48,
+    "category": "Photonics / RF",
+    "tags": [
+      "Photonics / RF"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "ations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), o … in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitte",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-09-17",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "e5d3862136ac6c76",
