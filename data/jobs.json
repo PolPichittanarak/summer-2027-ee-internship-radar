@@ -176,7 +176,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "2baba47101050773",
@@ -1211,34 +1211,6 @@
     "misses": 0
   },
   {
-    "id": "67fc0db25aac4f6a",
-    "company": "Globalfoundries",
-    "title": "Foundation IP Design Verification Intern (Summer 2027)",
-    "location": "USA - California - Santa Clara",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 63,
-    "category": "FPGA / ASIC / Digital",
-    "tags": [
-      "FPGA / ASIC / Digital",
-      "Test / Product / Reliability"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "8c3e6ad1864c5c3e",
     "company": "Marvell",
     "title": "Silicon Validation Intern, BS - Summer 2027",
@@ -1646,7 +1618,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "96b1c86ee42fb95b",
@@ -2400,7 +2372,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "cb362dbd4e108b10",
@@ -2707,33 +2679,6 @@
     "misses": 0
   },
   {
-    "id": "5ac946df952a4a0d",
-    "company": "Raytheon",
-    "title": "Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite)",
-    "location": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 51,
-    "category": "Embedded / Firmware",
-    "tags": [
-      "Embedded / Firmware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "687d05e92c1de7f2",
     "company": "Rivian",
     "title": "Software Engineering Intern - Embedded Platforms (Summer 2027)",
@@ -2783,6 +2728,34 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "a46bfbb140194aa1",
+    "company": "Anduril",
+    "title": "2027 Machine Learning Engineer Intern",
+    "location": "Santa Ana, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:andurilindustries",
+    "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands",
+    "score": 50,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware",
+      "PCB / Hardware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S.-person / protected status required",
+    "export_control": "Export controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "academic studies for at least one quarter or semester. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be requ",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-11-17",
+    "first_seen": "2026-11-17",
     "last_seen": "2026-11-17",
     "opening": "Listed",
     "misses": 0
@@ -2869,33 +2842,6 @@
     "misses": 0
   },
   {
-    "id": "80424ff96460d947",
-    "company": "Raytheon",
-    "title": "Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite)",
-    "location": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 50,
-    "category": "Broad EE",
-    "tags": [
-      "Broad EE"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "ba4d42629ca76886",
     "company": "Raytheon",
     "title": "Hardware in the Loop Engineering Intern - (Summer 2027)",
@@ -2975,33 +2921,6 @@
     "last_seen": "2026-11-17",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "2495324cf621a408",
-    "company": "Together AI",
-    "title": "Hardware Security Engineer Intern (Summer 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 50,
-    "category": "Broad EE",
-    "tags": [
-      "Broad EE"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "04191c8605c2e194",
@@ -4273,33 +4192,6 @@
     "misses": 0
   },
   {
-    "id": "3ad82208eb8239bf",
-    "company": "Nissan",
-    "title": "Robotics Programmer Intern - Summer 2027 - Smyrna, TN",
-    "location": "Smyrna, Tennessee - United States of America",
-    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 44,
-    "category": "Broad EE",
-    "tags": [
-      "Broad EE"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "5946b64d9b1e27a1",
     "company": "Pacific Fusion",
     "title": "Summer 2027 Vacuum Systems Engineering Internship",
@@ -5368,6 +5260,31 @@
     "misses": 0
   },
   {
+    "id": "dbe3089ed83ee9ac",
+    "company": "K2 Space",
+    "title": "Supply Chain Internship - Summer 2027",
+    "location": "Los Angeles",
+    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5436468008",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:k2spacecorporation",
+    "summary": "K2 is building the largest and highest-power satellites ever flown, unlocking performance levels previously out of reach across every orbit. Backed by over $1 billion in total funding from leading investors including Altimeter Capital, ICONIQ, Kleiner Perkins, Lightspeed Venture Partners, Redpoint Ventures, and T. Rowe Price — and with over $1 billion in signed contracts across commercial and US government customers, we're mass-producing the high",
+    "score": 30,
+    "category": "Broad EE",
+    "tags": [],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "with us, please let us know. Export Compliance As defined in the ITAR, “U.S. Persons” include U.S. citizens, lawful permanent residents (i.e., Green Card holders), and certain protecte … ith a knowledgeable advisor if you are unsure whether you are a “U.S. Person.” The person hired for this role will have access to information and items contro",
+    "company_type": "Startup watch",
+    "posted_at": "2026-09-28",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "85b88018a903893a",
     "company": "Pacific Fusion",
     "title": "Summer 2027 Materials Science Internship",
@@ -5983,6 +5900,34 @@
     "company_type": "Other / discovered"
   },
   {
+    "id": "67fc0db25aac4f6a",
+    "company": "Globalfoundries",
+    "title": "Foundation IP Design Verification Intern (Summer 2027)",
+    "location": "USA - California - Santa Clara",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 63,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital",
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
+    "opening": "Check opening",
+    "misses": 2
+  },
+  {
     "id": "1af8612d28688df1",
     "company": "Astranis",
     "title": "Software Defined Radio Hardware Intern (Summer 2027)",
@@ -6068,6 +6013,87 @@
     "company_type": "Startup watch"
   },
   {
+    "id": "5ac946df952a4a0d",
+    "company": "Raytheon",
+    "title": "Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 51,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
+    "opening": "Check opening",
+    "misses": 2
+  },
+  {
+    "id": "80424ff96460d947",
+    "company": "Raytheon",
+    "title": "Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 50,
+    "category": "Broad EE",
+    "tags": [
+      "Broad EE"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
+    "opening": "Check opening",
+    "misses": 2
+  },
+  {
+    "id": "2495324cf621a408",
+    "company": "Together AI",
+    "title": "Hardware Security Engineer Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 50,
+    "category": "Broad EE",
+    "tags": [
+      "Broad EE"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
+    "opening": "Check opening",
+    "misses": 2
+  },
+  {
     "id": "b8a725c6c768ed1d",
     "company": "Rocket Lab",
     "title": "Optical Engineering Intern Summer 2027",
@@ -6091,6 +6117,33 @@
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
+    "opening": "Check opening",
+    "misses": 3
+  },
+  {
+    "id": "3ad82208eb8239bf",
+    "company": "Nissan",
+    "title": "Robotics Programmer Intern - Summer 2027 - Smyrna, TN",
+    "location": "Smyrna, Tennessee - United States of America",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 44,
+    "category": "Broad EE",
+    "tags": [
+      "Broad EE"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
     "opening": "Check opening",
     "misses": 2
   },
