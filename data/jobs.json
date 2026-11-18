@@ -269,6 +269,36 @@
     "misses": 0
   },
   {
+    "id": "4fcd2fcacbfabf2a",
+    "company": "SpaceX",
+    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:spacex",
+    "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars. SUMMER 2027 SILICON ENGINEERING INTERNSHIP/CO-OP SpaceX seeks extraordinary students to join us for silicon hardware engineering roles in Summer 2027. As a silicon ",
+    "score": 79,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital",
+      "Test / Product / Reliability",
+      "Analog / Mixed-signal",
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "experience Applicant for this intern position must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, o … osition must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv)",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-08-03",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "f8cd89cae6afa469",
     "company": "Anduril",
     "title": "2027 Electrical Engineer Intern",
@@ -356,7 +386,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "41482c318f757ed5",
@@ -916,34 +946,6 @@
     "last_seen": "2026-11-18",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "5493609e507397a7",
-    "company": "Astranis",
-    "title": "RF Validation Intern - Summer 2027",
-    "location": "SF",
-    "url": "https://simplify.jobs/p/0419ea7c-013b-4e52-a6fa-3ca6af92f1b9",
-    "source": "Community: Simplify Summer 2027",
-    "source_key": "community:Simplify Summer 2027",
-    "summary": "",
-    "score": 67,
-    "category": "Photonics / RF",
-    "tags": [
-      "Photonics / RF",
-      "Test / Product / Reliability"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Startup watch",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "a0ca63958f2bc84b",
@@ -2087,7 +2089,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "0a41651836fb4f0d",
@@ -2193,6 +2195,33 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "e3c27cae9926287d",
+    "company": "DLR Group",
+    "title": "Electrical Engineering Intern | Summer 2027",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5486589008",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:dlrgroup",
+    "summary": "DLR Group is an integrated design firm with a promise to elevate the human experience through design. This fuels the work we do around the world and inspires our mission to improve the lives of our clients, our communities, and our planet. If this sparks your interest, you’re in the right place. DLR Group’s Minneapolis &nbsp;studio has an opening for an Electrical Engineering Summer Intern .&nbsp; &nbsp; Chicago, IL We have multiple positions and",
+    "score": 55,
+    "category": "PCB / Hardware",
+    "tags": [
+      "PCB / Hardware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "No sponsorship",
+    "eligibility_evidence": "work in the United States. We are unable to sponsor or take over sponsorship of a school/employment or any other visa, regardless of expiration date, now or in the future. Our comprehe",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-11-18",
+    "first_seen": "2026-11-18",
     "last_seen": "2026-11-18",
     "opening": "Listed",
     "misses": 0
@@ -2769,33 +2798,6 @@
     "eligibility_evidence": "No explicit requirement found in available description",
     "company_type": "Startup watch",
     "posted_at": "2026-10-20",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
-    "opening": "Listed",
-    "misses": 0
-  },
-  {
-    "id": "4fcd2fcacbfabf2a",
-    "company": "SpaceX",
-    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:spacex",
-    "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars. SUMMER 2027 SILICON ENGINEERING INTERNSHIP/CO-OP SpaceX seeks extraordinary students to join us for silicon hardware engineering roles in Summer 2027. As a silicon ",
-    "score": 50,
-    "category": "FPGA / ASIC / Digital",
-    "tags": [
-      "FPGA / ASIC / Digital"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "experience Applicant for this intern position must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, o … osition must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv)",
-    "company_type": "Other / discovered",
-    "posted_at": "2026-08-03",
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Listed",
@@ -5066,6 +5068,31 @@
     "misses": 0
   },
   {
+    "id": "e7b76c7e18acb48d",
+    "company": "Anduril",
+    "title": "2027 Business Systems Engineer Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:andurilindustries",
+    "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands",
+    "score": 30,
+    "category": "Broad EE",
+    "tags": [],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S.-person / protected status required",
+    "export_control": "Export controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "academic studies for at least one quarter or semester. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be requ",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-11-18",
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "52564773972aaa4c",
     "company": "Anduril",
     "title": "2027 Deployment Operations Intern",
@@ -5718,7 +5745,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5748,7 +5775,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5779,6 +5806,34 @@
     "visa_sponsorship": "Not stated",
     "eligibility_evidence": "Starter snapshot flag only; check employer posting",
     "company_type": "Other / discovered"
+  },
+  {
+    "id": "5493609e507397a7",
+    "company": "Astranis",
+    "title": "RF Validation Intern - Summer 2027",
+    "location": "SF",
+    "url": "https://simplify.jobs/p/0419ea7c-013b-4e52-a6fa-3ca6af92f1b9",
+    "source": "Community: Simplify Summer 2027",
+    "source_key": "community:Simplify Summer 2027",
+    "summary": "",
+    "score": 67,
+    "category": "Photonics / RF",
+    "tags": [
+      "Photonics / RF",
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Startup watch",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "34de9be4aabe9182",
@@ -5891,7 +5946,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "1af8612d28688df1",
@@ -5950,7 +6005,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "c88591e6b43ecedb",
@@ -5980,7 +6035,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "04bb412e17b53748",
@@ -6008,7 +6063,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6091,7 +6146,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "80424ff96460d947",
@@ -6118,7 +6173,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "2495324cf621a408",
@@ -6145,7 +6200,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6172,7 +6227,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6199,7 +6254,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "e5d3862136ac6c76",
