@@ -1,35 +1,5 @@
 [
   {
-    "id": "d52a7aed9317ea9c",
-    "company": "Astranis",
-    "title": "RF Validation Intern (Summer 2027)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:astranis",
-    "summary": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe – large enterprises, sovereign governments, and the US military.&nbsp; With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the ",
-    "score": 86,
-    "category": "Photonics / RF",
-    "tags": [
-      "Photonics / RF",
-      "Test / Product / Reliability",
-      "Analog / Mixed-signal",
-      "High-speed / SI / PI"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S.-person / protected status required",
-    "export_control": "Export controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "ion is $29.00 per hour. Base Hourly Pay $29 — $29 USD U.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required (To comply with U.S. Government space technology ex … nt space technology export regulations, applicant must be a U.S. citizen, lawful permanent resident of the United States, or other protected individual as de",
-    "company_type": "Startup watch",
-    "posted_at": "2026-09-24",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "c032734e16d6bd8c",
     "company": "Freeform",
     "title": "Electrical Engineering Intern (Summer 2027)",
@@ -973,7 +943,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "a0ca63958f2bc84b",
@@ -1894,36 +1864,6 @@
     "last_seen": "2026-11-18",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "c88591e6b43ecedb",
-    "company": "Revel",
-    "title": "Internship: Full Stack Software Engineer",
-    "location": "Los Angeles",
-    "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314",
-    "source": "Employer ATS",
-    "source_key": "ashby:revel",
-    "summary": "ABOUT REVEL At Revel, we are revolutionizing the way the world’s most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and s",
-    "score": 56,
-    "category": "FPGA / ASIC / Digital",
-    "tags": [
-      "FPGA / ASIC / Digital",
-      "Power / EV / Controls",
-      "Test / Product / Reliability",
-      "Embedded / Firmware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "nvironment - Strong written and verbal communication skills - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Experience building a full-stack … ong written and verbal communication skills - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Experience buildin",
-    "company_type": "Startup watch",
-    "posted_at": "2026-10-06",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-17",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "42ca7a0f07563555",
@@ -5751,6 +5691,36 @@
     "misses": 0
   },
   {
+    "id": "d52a7aed9317ea9c",
+    "company": "Astranis",
+    "title": "RF Validation Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:astranis",
+    "summary": "Astranis builds advanced satellites for high orbits, expanding humanity’s reach into the solar system. Today Astranis satellites provide dedicated, secure networks to highly-sophisticated customers across the globe – large enterprises, sovereign governments, and the US military.&nbsp; With five satellites on orbit and many more set to launch soon, the company is servicing a backlog of more than $1 billion of commercial contracts. Astranis is the ",
+    "score": 86,
+    "category": "Photonics / RF",
+    "tags": [
+      "Photonics / RF",
+      "Test / Product / Reliability",
+      "Analog / Mixed-signal",
+      "High-speed / SI / PI"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S.-person / protected status required",
+    "export_control": "Export controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "ion is $29.00 per hour. Base Hourly Pay $29 — $29 USD U.S. Citizenship, Lawful Permanent Residency, or Refugee/Asylee Status Required (To comply with U.S. Government space technology ex … nt space technology export regulations, applicant must be a U.S. citizen, lawful permanent resident of the United States, or other protected individual as de",
+    "company_type": "Startup watch",
+    "posted_at": "2026-09-24",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
+    "opening": "Check opening",
+    "misses": 2
+  },
+  {
     "id": "9f5cdb50fefe830d",
     "company": "General Matter",
     "title": "Summer 2027 Internship - Embedded Software Engineering",
@@ -5778,7 +5748,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5921,7 +5891,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "1af8612d28688df1",
@@ -5980,6 +5950,36 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
+    "misses": 3
+  },
+  {
+    "id": "c88591e6b43ecedb",
+    "company": "Revel",
+    "title": "Internship: Full Stack Software Engineer",
+    "location": "Los Angeles",
+    "url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314",
+    "source": "Employer ATS",
+    "source_key": "ashby:revel",
+    "summary": "ABOUT REVEL At Revel, we are revolutionizing the way the world’s most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and s",
+    "score": 56,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital",
+      "Power / EV / Controls",
+      "Test / Product / Reliability",
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "nvironment - Strong written and verbal communication skills - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Experience building a full-stack … ong written and verbal communication skills - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Experience buildin",
+    "company_type": "Startup watch",
+    "posted_at": "2026-10-06",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-17",
+    "opening": "Check opening",
     "misses": 2
   },
   {
@@ -6008,7 +6008,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6091,7 +6091,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "80424ff96460d947",
@@ -6118,7 +6118,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "2495324cf621a408",
@@ -6145,7 +6145,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6172,7 +6172,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6199,7 +6199,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "e5d3862136ac6c76",
