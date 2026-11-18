@@ -3,13 +3,13 @@
     "source": "Antares",
     "type": "ashby",
     "status": "OK",
-    "rows": 83
+    "rows": 84
   },
   {
     "source": "Apex Technology",
     "type": "ashby",
     "status": "OK",
-    "rows": 142
+    "rows": 141
   },
   {
     "source": "Etched",
@@ -33,13 +33,13 @@
     "source": "Revel",
     "type": "ashby",
     "status": "OK",
-    "rows": 36
+    "rows": 35
   },
   {
     "source": "Skydio",
     "type": "ashby",
     "status": "OK",
-    "rows": 188
+    "rows": 189
   },
   {
     "source": "Hardware Internships 2027",
@@ -51,7 +51,7 @@
     "source": "Hardware Jobs (TrakkerHQ)",
     "type": "community",
     "status": "OK",
-    "rows": 261
+    "rows": 271
   },
   {
     "source": "Simplify Summer 2027",
@@ -63,19 +63,19 @@
     "source": "Anduril",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2614
+    "rows": 2612
   },
   {
     "source": "Astranis",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 182
+    "rows": 180
   },
   {
     "source": "DLR Group",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 154
+    "rows": 153
   },
   {
     "source": "Freeform",
@@ -87,7 +87,7 @@
     "source": "General Matter",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 130
+    "rows": 128
   },
   {
     "source": "HP IQ",
@@ -99,13 +99,13 @@
     "source": "K2 Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 244
+    "rows": 246
   },
   {
     "source": "Muon Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 140
+    "rows": 141
   },
   {
     "source": "Pacific Fusion",
@@ -123,19 +123,19 @@
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 534
+    "rows": 535
   },
   {
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2801
+    "rows": 2793
   },
   {
     "source": "Stoke Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 66
+    "rows": 65
   },
   {
     "source": "Hermeus",
