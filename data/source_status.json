@@ -27,7 +27,7 @@
     "source": "Northwood Space",
     "type": "ashby",
     "status": "OK",
-    "rows": 64
+    "rows": 62
   },
   {
     "source": "Revel",
@@ -63,13 +63,13 @@
     "source": "Anduril",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2627
+    "rows": 2619
   },
   {
     "source": "Astranis",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 179
+    "rows": 181
   },
   {
     "source": "DLR Group",
@@ -99,7 +99,7 @@
     "source": "K2 Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 246
+    "rows": 247
   },
   {
     "source": "Muon Space",
@@ -123,13 +123,13 @@
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 544
+    "rows": 543
   },
   {
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2798
+    "rows": 2801
   },
   {
     "source": "Stoke Space",

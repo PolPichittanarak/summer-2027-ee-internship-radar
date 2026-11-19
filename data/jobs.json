@@ -25,7 +25,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-19",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -55,7 +55,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -87,7 +87,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "801eb6acae9811fc",
@@ -114,7 +114,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-24",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -144,7 +144,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -174,7 +174,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-10",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -204,7 +204,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-23",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -234,7 +234,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-26",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -264,37 +264,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
-    "opening": "Listed",
-    "misses": 0
-  },
-  {
-    "id": "4fcd2fcacbfabf2a",
-    "company": "SpaceX",
-    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:spacex",
-    "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars. SUMMER 2027 SILICON ENGINEERING INTERNSHIP/CO-OP SpaceX seeks extraordinary students to join us for silicon hardware engineering roles in Summer 2027. As a silicon ",
-    "score": 79,
-    "category": "FPGA / ASIC / Digital",
-    "tags": [
-      "FPGA / ASIC / Digital",
-      "Test / Product / Reliability",
-      "Analog / Mixed-signal",
-      "Embedded / Firmware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "experience Applicant for this intern position must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, o … osition must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv)",
-    "company_type": "Other / discovered",
-    "posted_at": "2026-08-03",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -324,7 +294,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-06-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -354,39 +324,9 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-20",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "25b31f64ed63bafb",
-    "company": "Revel",
-    "title": "Internship: Embedded Software Engineer",
-    "location": "Los Angeles",
-    "url": "https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889",
-    "source": "Employer ATS",
-    "source_key": "ashby:revel",
-    "summary": "ABOUT REVEL At Revel, we are revolutionizing the way the world’s most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and s",
-    "score": 78,
-    "category": "Embedded / Firmware",
-    "tags": [
-      "Embedded / Firmware",
-      "Test / Product / Reliability",
-      "Power / EV / Controls",
-      "PCB / Hardware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "nvironment - Strong written and verbal communication skills - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Coursework or personal projects i … ong written and verbal communication skills - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Coursework or per",
-    "company_type": "Startup watch",
-    "posted_at": "2026-10-06",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "41482c318f757ed5",
@@ -414,7 +354,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-20",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -443,7 +383,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-10",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -473,7 +413,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-13",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -503,7 +443,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-22",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -533,7 +473,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-13",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -562,7 +502,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-30",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -591,7 +531,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-11-10",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -621,7 +561,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-26",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -649,7 +589,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -677,7 +617,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -707,7 +647,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-14",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -736,7 +676,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-22",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -766,7 +706,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-02-07",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -795,7 +735,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-02-07",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -823,7 +763,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -853,7 +793,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-19",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -883,7 +823,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-02",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -913,7 +853,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-06",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -943,7 +883,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-06",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -972,7 +912,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1002,7 +942,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-26",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1030,7 +970,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1060,7 +1000,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-02-07",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1090,7 +1030,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-14",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1120,7 +1060,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-15",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1148,7 +1088,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1176,7 +1116,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1206,7 +1146,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-19",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1236,7 +1176,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-04-13",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1266,7 +1206,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-06",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1295,7 +1235,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1324,7 +1264,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-02-07",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1352,7 +1292,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1382,7 +1322,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-30",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1412,7 +1352,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1440,7 +1380,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-05",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1469,7 +1409,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-04",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1498,7 +1438,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1528,7 +1468,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1558,7 +1498,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-15",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1585,7 +1525,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1613,7 +1553,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-12",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1641,7 +1581,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-12",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1668,7 +1608,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1697,7 +1637,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-30",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1724,7 +1664,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1751,7 +1691,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1778,7 +1718,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-20",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1805,7 +1745,7 @@
     "company_type": "Startup watch",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1834,7 +1774,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-19",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1863,7 +1803,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-02",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1892,7 +1832,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1921,7 +1861,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-22",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1950,7 +1890,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -1979,7 +1919,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2006,7 +1946,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2033,7 +1973,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2060,36 +2000,9 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "356003dfc9b6245d",
-    "company": "DLR Group",
-    "title": "Electrical Engineering Intern | Summer 2027",
-    "location": "Overland Park, Kansas, United States",
-    "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441787008",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:dlrgroup",
-    "summary": "DLR Group is an integrated design firm with a promise to elevate the human experience through design. This fuels the work we do around the world and inspires our mission to improve the lives of our clients, our communities, and our planet. If this sparks your interest, you’re in the right place. DLR Group’s Kansas studio has an opening for an Electrical Engineering Summer Intern .&nbsp; &nbsp; We have multiple positions and locations available; p",
-    "score": 55,
-    "category": "PCB / Hardware",
-    "tags": [
-      "PCB / Hardware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "No sponsorship",
-    "eligibility_evidence": "work in the United States. We are unable to sponsor or take over sponsorship of a school/employment or any other visa, regardless of expiration date, now or in the future. #LI- DLR Group is a",
-    "company_type": "Other / discovered",
-    "posted_at": "2026-10-01",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "0a41651836fb4f0d",
@@ -2114,7 +2027,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2141,7 +2054,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2168,7 +2081,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2195,7 +2108,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2222,7 +2135,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-11-18",
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2251,7 +2164,7 @@
     "company_type": "Startup watch",
     "posted_at": "2025-12-08",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2280,7 +2193,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2307,7 +2220,7 @@
     "company_type": "Startup watch",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2334,7 +2247,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2361,7 +2274,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2388,7 +2301,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2417,7 +2330,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-14",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2444,7 +2357,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2472,7 +2385,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-05",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2501,7 +2414,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2528,7 +2441,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2555,7 +2468,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-10",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2582,7 +2495,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2609,7 +2522,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2636,7 +2549,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2664,7 +2577,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-11-17",
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2691,7 +2604,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2718,7 +2631,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2745,7 +2658,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2772,7 +2685,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2799,7 +2712,34 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-20",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "4fcd2fcacbfabf2a",
+    "company": "SpaceX",
+    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:spacex",
+    "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars. SUMMER 2027 SILICON ENGINEERING INTERNSHIP/CO-OP SpaceX seeks extraordinary students to join us for silicon hardware engineering roles in Summer 2027. As a silicon ",
+    "score": 50,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "experience Applicant for this intern position must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, o … osition must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv)",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-08-03",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2826,7 +2766,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2853,7 +2793,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2880,7 +2820,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2907,7 +2847,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2935,7 +2875,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-05",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2963,7 +2903,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-30",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -2991,7 +2931,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-02",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3019,7 +2959,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-10",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3047,7 +2987,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-18",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3075,7 +3015,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-31",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3103,7 +3043,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-22",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3131,7 +3071,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-26",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3159,7 +3099,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-10",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3187,7 +3127,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-18",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3215,7 +3155,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-02",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3243,7 +3183,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3271,7 +3211,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-19",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3299,7 +3239,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-06-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3327,7 +3267,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-21",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3355,7 +3295,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-19",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3383,7 +3323,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-29",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3411,7 +3351,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-31",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3439,7 +3379,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-31",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3467,7 +3407,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-30",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3494,7 +3434,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3521,7 +3461,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-29",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3549,7 +3489,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-29",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3577,7 +3517,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3605,7 +3545,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3633,7 +3573,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3661,7 +3601,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-19",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3689,7 +3629,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3717,7 +3657,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3744,7 +3684,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3771,7 +3711,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3798,7 +3738,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3825,7 +3765,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3852,7 +3792,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3879,7 +3819,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3906,7 +3846,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3933,7 +3873,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3960,7 +3900,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -3987,7 +3927,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4014,7 +3954,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4041,7 +3981,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4068,7 +4008,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4095,7 +4035,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-26",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4122,7 +4062,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4149,7 +4089,7 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4176,7 +4116,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-11-02",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4203,7 +4143,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4230,7 +4170,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4257,7 +4197,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4284,7 +4224,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-20",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4311,7 +4251,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-12",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4338,7 +4278,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-28",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4365,7 +4305,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-13",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4392,7 +4332,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-19",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4419,7 +4359,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4446,7 +4386,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-24",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4473,7 +4413,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-19",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4500,7 +4440,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-26",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4527,7 +4467,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-01",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4554,7 +4494,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-26",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4581,7 +4521,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-05",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4608,7 +4548,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-08-20",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4635,7 +4575,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4662,7 +4602,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-22",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4689,7 +4629,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4716,7 +4656,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4743,7 +4683,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-06-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4770,7 +4710,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-02",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4797,7 +4737,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-05",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4824,7 +4764,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4851,7 +4791,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4878,7 +4818,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4905,7 +4845,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4932,7 +4872,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4959,7 +4899,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -4986,7 +4926,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-03",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5013,7 +4953,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-13",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5038,7 +4978,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-21",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5063,7 +5003,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-21",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5088,7 +5028,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-11-18",
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5113,7 +5053,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5138,7 +5078,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5163,7 +5103,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-05",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5188,7 +5128,7 @@
     "company_type": "Startup watch",
     "posted_at": "2025-12-08",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5213,7 +5153,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-28",
     "first_seen": "2026-11-17",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5238,7 +5178,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5263,7 +5203,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5288,7 +5228,7 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5313,7 +5253,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5338,7 +5278,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5363,7 +5303,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-09",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5388,7 +5328,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-02",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5413,7 +5353,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-02",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5438,7 +5378,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5463,7 +5403,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5488,7 +5428,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-13",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5513,7 +5453,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5538,7 +5478,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-11",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5563,7 +5503,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5588,7 +5528,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5613,7 +5553,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5638,7 +5578,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5663,7 +5603,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5688,7 +5628,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-09-17",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5713,7 +5653,7 @@
     "company_type": "Other / discovered",
     "posted_at": "2026-10-16",
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
   },
@@ -5745,7 +5685,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5775,7 +5715,37 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
+  },
+  {
+    "id": "25b31f64ed63bafb",
+    "company": "Revel",
+    "title": "Internship: Embedded Software Engineer",
+    "location": "Los Angeles",
+    "url": "https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889",
+    "source": "Employer ATS",
+    "source_key": "ashby:revel",
+    "summary": "ABOUT REVEL At Revel, we are revolutionizing the way the world’s most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and s",
+    "score": 78,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware",
+      "Test / Product / Reliability",
+      "Power / EV / Controls",
+      "PCB / Hardware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "nvironment - Strong written and verbal communication skills - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Coursework or personal projects i … ong written and verbal communication skills - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Coursework or per",
+    "company_type": "Startup watch",
+    "posted_at": "2026-10-06",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5833,7 +5803,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "34de9be4aabe9182",
@@ -5946,7 +5916,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "1af8612d28688df1",
@@ -6005,7 +5975,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6035,7 +6005,34 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
+  },
+  {
+    "id": "356003dfc9b6245d",
+    "company": "DLR Group",
+    "title": "Electrical Engineering Intern | Summer 2027",
+    "location": "Overland Park, Kansas, United States",
+    "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441787008",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:dlrgroup",
+    "summary": "DLR Group is an integrated design firm with a promise to elevate the human experience through design. This fuels the work we do around the world and inspires our mission to improve the lives of our clients, our communities, and our planet. If this sparks your interest, you’re in the right place. DLR Group’s Kansas studio has an opening for an Electrical Engineering Summer Intern .&nbsp; &nbsp; We have multiple positions and locations available; p",
+    "score": 55,
+    "category": "PCB / Hardware",
+    "tags": [
+      "PCB / Hardware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "No sponsorship",
+    "eligibility_evidence": "work in the United States. We are unable to sponsor or take over sponsorship of a school/employment or any other visa, regardless of expiration date, now or in the future. #LI- DLR Group is a",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-10-01",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "04bb412e17b53748",
@@ -6063,7 +6060,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6146,7 +6143,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "80424ff96460d947",
@@ -6173,7 +6170,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "2495324cf621a408",
@@ -6200,7 +6197,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6227,7 +6224,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6254,7 +6251,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "e5d3862136ac6c76",
