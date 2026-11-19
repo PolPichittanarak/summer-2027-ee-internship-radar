@@ -21,7 +21,7 @@
     "source": "Heron Power",
     "type": "ashby",
     "status": "OK",
-    "rows": 58
+    "rows": 59
   },
   {
     "source": "Northwood Space",
@@ -63,19 +63,19 @@
     "source": "Anduril",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2619
+    "rows": 2620
   },
   {
     "source": "Astranis",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 181
+    "rows": 179
   },
   {
     "source": "DLR Group",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 152
+    "rows": 148
   },
   {
     "source": "Freeform",
@@ -87,7 +87,7 @@
     "source": "General Matter",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 130
+    "rows": 131
   },
   {
     "source": "HP IQ",
@@ -105,13 +105,13 @@
     "source": "Muon Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 139
+    "rows": 138
   },
   {
     "source": "Pacific Fusion",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 35
+    "rows": 36
   },
   {
     "source": "Parallel Systems",
@@ -123,13 +123,13 @@
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 543
+    "rows": 547
   },
   {
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2803
+    "rows": 2771
   },
   {
     "source": "Stoke Space",
@@ -141,7 +141,7 @@
     "source": "Hermeus",
     "type": "lever",
     "status": "OK",
-    "rows": 79
+    "rows": 80
   },
   {
     "source": "Layup Parts",
@@ -159,6 +159,6 @@
     "source": "Xcimer Energy",
     "type": "lever",
     "status": "OK",
-    "rows": 73
+    "rows": 74
   }
 ]

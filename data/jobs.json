@@ -3212,6 +3212,34 @@
     "misses": 0
   },
   {
+    "id": "b0137b9b1d49291f",
+    "company": "Anduril",
+    "title": "2027 Engineering Systems Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:andurilindustries",
+    "summary": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands",
+    "score": 46,
+    "category": "PCB / Hardware",
+    "tags": [
+      "PCB / Hardware",
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S.-person / protected status required",
+    "export_control": "Export controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "academic studies for at least one quarter or semester. Must be a U.S. Person due to required access to U.S. export-controlled information or facilities; U.S. clearance eligibility may be requ",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-11-19",
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "8e006c7f6b7e26ba",
     "company": "Anduril",
     "title": "2027 Guidance, Navigation, & Control Engineer Intern",
@@ -5709,7 +5737,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "b354554846881e08",
@@ -5739,7 +5767,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5769,7 +5797,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5799,7 +5827,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5857,7 +5885,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "34de9be4aabe9182",
@@ -5970,7 +5998,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "1af8612d28688df1",
@@ -6029,7 +6057,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6059,7 +6087,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "356003dfc9b6245d",
@@ -6086,7 +6114,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "04bb412e17b53748",
@@ -6114,7 +6142,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6197,7 +6225,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "80424ff96460d947",
@@ -6224,7 +6252,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "2495324cf621a408",
@@ -6251,7 +6279,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6278,7 +6306,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6305,7 +6333,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "e5d3862136ac6c76",
