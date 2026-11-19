@@ -15,7 +15,7 @@
     "source": "Etched",
     "type": "ashby",
     "status": "OK",
-    "rows": 116
+    "rows": 118
   },
   {
     "source": "Heron Power",
@@ -51,13 +51,13 @@
     "source": "Hardware Jobs (TrakkerHQ)",
     "type": "community",
     "status": "OK",
-    "rows": 271
+    "rows": 287
   },
   {
     "source": "Simplify Summer 2027",
     "type": "community",
     "status": "OK",
-    "rows": 196
+    "rows": 197
   },
   {
     "source": "Anduril",
@@ -75,7 +75,7 @@
     "source": "DLR Group",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 153
+    "rows": 152
   },
   {
     "source": "Freeform",
@@ -129,7 +129,7 @@
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2801
+    "rows": 2803
   },
   {
     "source": "Stoke Space",

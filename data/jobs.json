@@ -60,36 +60,6 @@
     "misses": 0
   },
   {
-    "id": "b354554846881e08",
-    "company": "Northwood Space",
-    "title": "Electrical Engineering Intern (2027 Summer Internship)",
-    "location": "Torrance, CA",
-    "url": "https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026",
-    "source": "Employer ATS",
-    "source_key": "ashby:NorthwoodSpace",
-    "summary": "About Northwood: Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of phased array and parabolic ground stations that enable real-time, reliable communication for satellite missions such as national security, global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapi",
-    "score": 85,
-    "category": "PCB / Hardware",
-    "tags": [
-      "PCB / Hardware",
-      "High-speed / SI / PI",
-      "FPGA / ASIC / Digital",
-      "Photonics / RF"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "ations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 13 … ernational Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1",
-    "company_type": "Startup watch",
-    "posted_at": "2026-11-16",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-18",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "801eb6acae9811fc",
     "company": "Astranis",
     "title": "Electrical Integration Intern - RF (Summer 2027)",
@@ -2446,6 +2416,33 @@
     "misses": 0
   },
   {
+    "id": "4206365e54097fab",
+    "company": "Analog Devices",
+    "title": "Analog Design Engineering Intern - Summer 2027",
+    "location": "USA, CO, Colorado Springs, Centennial",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CO-Colorado-Springs-Centennial/Analog-Design-Engineering-Intern---Summer-2027_R268077",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 52,
+    "category": "Analog / Mixed-signal",
+    "tags": [
+      "Analog / Mixed-signal"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "a689dd2b34d65ddf",
     "company": "Astranis",
     "title": "Embedded Software Developer, Network/Payload Intern (Summer 2027)",
@@ -2903,6 +2900,33 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-30",
     "first_seen": "2026-11-16",
+    "last_seen": "2026-11-19",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "ab1e11838bb6225c",
+    "company": "Analog Devices",
+    "title": "Digital Design Engineering Intern - Summer 2027",
+    "location": "USA, TX, Austin, Plaza on the Lake",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-TX-Austin-Plaza-on-the-Lake/Digital-Design-Engineering-Intern---Summer-2027_R268548",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 48,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-19",
     "last_seen": "2026-11-19",
     "opening": "Listed",
     "misses": 0
@@ -5685,7 +5709,37 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
+  },
+  {
+    "id": "b354554846881e08",
+    "company": "Northwood Space",
+    "title": "Electrical Engineering Intern (2027 Summer Internship)",
+    "location": "Torrance, CA",
+    "url": "https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026",
+    "source": "Employer ATS",
+    "source_key": "ashby:NorthwoodSpace",
+    "summary": "About Northwood: Northwood is a modern space infrastructure company bringing the benefits of space to the masses through advanced communications technology. We are building a global network of phased array and parabolic ground stations that enable real-time, reliable communication for satellite missions such as national security, global connectivity, and disaster response. With a vertically integrated approach, Northwood designs, builds, and rapi",
+    "score": 85,
+    "category": "PCB / Hardware",
+    "tags": [
+      "PCB / Hardware",
+      "High-speed / SI / PI",
+      "FPGA / ASIC / Digital",
+      "Photonics / RF"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "ations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 13 … ernational Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1",
+    "company_type": "Startup watch",
+    "posted_at": "2026-11-16",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-18",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5715,7 +5769,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5745,7 +5799,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5803,7 +5857,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "34de9be4aabe9182",
@@ -5916,7 +5970,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "1af8612d28688df1",
@@ -5975,7 +6029,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6005,7 +6059,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "356003dfc9b6245d",
@@ -6032,7 +6086,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "04bb412e17b53748",
@@ -6060,7 +6114,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6143,7 +6197,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "80424ff96460d947",
@@ -6170,7 +6224,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "2495324cf621a408",
@@ -6197,7 +6251,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6224,7 +6278,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6251,7 +6305,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "e5d3862136ac6c76",
