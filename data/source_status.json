@@ -21,7 +21,7 @@
     "source": "Heron Power",
     "type": "ashby",
     "status": "OK",
-    "rows": 59
+    "rows": 60
   },
   {
     "source": "Northwood Space",
@@ -51,19 +51,19 @@
     "source": "Hardware Jobs (TrakkerHQ)",
     "type": "community",
     "status": "OK",
-    "rows": 287
+    "rows": 281
   },
   {
     "source": "Simplify Summer 2027",
     "type": "community",
     "status": "OK",
-    "rows": 205
+    "rows": 210
   },
   {
     "source": "Anduril",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2620
+    "rows": 2624
   },
   {
     "source": "Astranis",
@@ -123,13 +123,13 @@
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 557
+    "rows": 551
   },
   {
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2761
+    "rows": 2777
   },
   {
     "source": "Stoke Space",

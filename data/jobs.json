@@ -239,36 +239,6 @@
     "misses": 0
   },
   {
-    "id": "4fcd2fcacbfabf2a",
-    "company": "SpaceX",
-    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:spacex",
-    "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars. SUMMER 2027 SILICON ENGINEERING INTERNSHIP/CO-OP SpaceX seeks extraordinary students to join us for silicon hardware engineering roles in Summer 2027. As a silicon ",
-    "score": 79,
-    "category": "FPGA / ASIC / Digital",
-    "tags": [
-      "FPGA / ASIC / Digital",
-      "Test / Product / Reliability",
-      "Analog / Mixed-signal",
-      "Embedded / Firmware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "experience Applicant for this intern position must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, o … osition must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv)",
-    "company_type": "Other / discovered",
-    "posted_at": "2026-08-03",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-20",
-    "opening": "Listed",
-    "misses": 0
-  },
-  {
     "id": "f8cd89cae6afa469",
     "company": "Anduril",
     "title": "2027 Electrical Engineer Intern",
@@ -765,7 +735,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "f85364246bef6d39",
@@ -826,36 +796,6 @@
     "last_seen": "2026-11-20",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "f200d44d13b244b5",
-    "company": "Revel",
-    "title": "Internship: Forward Deployed Engineer, Test",
-    "location": "Los Angeles",
-    "url": "https://jobs.ashbyhq.com/revel/6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1",
-    "source": "Employer ATS",
-    "source_key": "ashby:revel",
-    "summary": "ABOUT REVEL At Revel, we are revolutionizing the way the world’s most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and s",
-    "score": 68,
-    "category": "Power / EV / Controls",
-    "tags": [
-      "Power / EV / Controls",
-      "Test / Product / Reliability",
-      "Embedded / Firmware",
-      "FPGA / ASIC / Digital"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "Comfortable working in a fast-paced, ambiguous environment - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Experience with data acquisition … king in a fast-paced, ambiguous environment - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Experience with dat",
-    "company_type": "Startup watch",
-    "posted_at": "2026-10-06",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-19",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "6d9b741766044b7a",
@@ -1146,6 +1086,34 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
+    "last_seen": "2026-11-20",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "96307a3e59e5d509",
+    "company": "Lightmatter",
+    "title": "Silicon Validation & Test Automation, Intern Summer 2027",
+    "location": "Mountain View, CA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5473832008",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 63,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital",
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "opening": "Listed",
     "misses": 0
@@ -1612,7 +1580,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "d5630fb077c589e8",
@@ -2475,6 +2443,60 @@
     "misses": 0
   },
   {
+    "id": "33d027647c5455ba",
+    "company": "Lightmatter",
+    "title": "Analog Engineering Intern - Summer 2027",
+    "location": "Boston, MA; Mountain View, CA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5475081008",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 52,
+    "category": "Analog / Mixed-signal",
+    "tags": [
+      "Analog / Mixed-signal"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "3aba925dfa011996",
+    "company": "Lightmatter",
+    "title": "Analog Engineering Intern - Summer 2027",
+    "location": "Mountain View, CA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5473774008",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 52,
+    "category": "Analog / Mixed-signal",
+    "tags": [
+      "Analog / Mixed-signal"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "56f695eed1173ae4",
     "company": "↳",
     "title": "Analog Engineering Intern - Summer 2027",
@@ -2551,6 +2573,60 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
+    "last_seen": "2026-11-20",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "294b11dbaedac140",
+    "company": "Lucid Motors",
+    "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290800007",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 51,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "60349b83e5e4df5d",
+    "company": "Lucid Motors",
+    "title": "Intern, Embedded Software, Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290904007",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 51,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-20",
     "last_seen": "2026-11-20",
     "opening": "Listed",
     "misses": 0
@@ -2767,6 +2843,33 @@
     "eligibility_evidence": "No explicit requirement found in available description",
     "company_type": "Startup watch",
     "posted_at": "2026-10-20",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-20",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "4fcd2fcacbfabf2a",
+    "company": "SpaceX",
+    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:spacex",
+    "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars. SUMMER 2027 SILICON ENGINEERING INTERNSHIP/CO-OP SpaceX seeks extraordinary students to join us for silicon hardware engineering roles in Summer 2027. As a silicon ",
+    "score": 50,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "experience Applicant for this intern position must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, o … osition must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv)",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-08-03",
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Listed",
@@ -3770,7 +3873,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "c78272fcc3690f8f",
@@ -4067,7 +4170,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "051752407090e957",
@@ -5794,7 +5897,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "b354554846881e08",
@@ -5824,7 +5927,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5854,7 +5957,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5884,7 +5987,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5917,6 +6020,36 @@
     "company_type": "Other / discovered"
   },
   {
+    "id": "f200d44d13b244b5",
+    "company": "Revel",
+    "title": "Internship: Forward Deployed Engineer, Test",
+    "location": "Los Angeles",
+    "url": "https://jobs.ashbyhq.com/revel/6ca4dca8-a43e-41da-acc3-e6b4d8f9b3c1",
+    "source": "Employer ATS",
+    "source_key": "ashby:revel",
+    "summary": "ABOUT REVEL At Revel, we are revolutionizing the way the world’s most critical hardware is controlled—across aerospace, automotive, energy, and manufacturing sectors. Our next-generation software stack combines an intuitive command/control interface, a specialized programming language tailored for hardware control, and a high-performance runtime environment. We empower engineers to build, test, and deploy critical systems rapidly, reliably, and s",
+    "score": 68,
+    "category": "Power / EV / Controls",
+    "tags": [
+      "Power / EV / Controls",
+      "Test / Product / Reliability",
+      "Embedded / Firmware",
+      "FPGA / ASIC / Digital"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "Comfortable working in a fast-paced, ambiguous environment - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Experience with data acquisition … king in a fast-paced, ambiguous environment - US citizen, lawful permanent resident, refugee, or asylee (ITAR requirement) BONUS POINTS - Experience with dat",
+    "company_type": "Startup watch",
+    "posted_at": "2026-10-06",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-19",
+    "opening": "Check opening",
+    "misses": 2
+  },
+  {
     "id": "5493609e507397a7",
     "company": "Astranis",
     "title": "RF Validation Intern - Summer 2027",
@@ -5942,7 +6075,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "34de9be4aabe9182",
@@ -6055,7 +6188,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "1af8612d28688df1",
@@ -6114,7 +6247,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6144,7 +6277,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "356003dfc9b6245d",
@@ -6171,7 +6304,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "04bb412e17b53748",
@@ -6199,7 +6332,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6282,7 +6415,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "80424ff96460d947",
@@ -6309,7 +6442,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "2495324cf621a408",
@@ -6336,7 +6469,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6363,7 +6496,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 10
+    "misses": 11
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6390,7 +6523,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "e5d3862136ac6c76",
