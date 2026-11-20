@@ -27,13 +27,13 @@
     "source": "Northwood Space",
     "type": "ashby",
     "status": "OK",
-    "rows": 62
+    "rows": 63
   },
   {
     "source": "Revel",
     "type": "ashby",
     "status": "OK",
-    "rows": 34
+    "rows": 32
   },
   {
     "source": "Skydio",
@@ -57,7 +57,7 @@
     "source": "Simplify Summer 2027",
     "type": "community",
     "status": "OK",
-    "rows": 197
+    "rows": 205
   },
   {
     "source": "Anduril",
@@ -69,19 +69,19 @@
     "source": "Astranis",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 179
+    "rows": 173
   },
   {
     "source": "DLR Group",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 148
+    "rows": 147
   },
   {
     "source": "Freeform",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 79
+    "rows": 80
   },
   {
     "source": "General Matter",
@@ -99,13 +99,13 @@
     "source": "K2 Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 247
+    "rows": 248
   },
   {
     "source": "Muon Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 138
+    "rows": 137
   },
   {
     "source": "Pacific Fusion",
@@ -117,19 +117,19 @@
     "source": "Parallel Systems",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 21
+    "rows": 22
   },
   {
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 547
+    "rows": 557
   },
   {
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2771
+    "rows": 2761
   },
   {
     "source": "Stoke Space",
@@ -141,7 +141,7 @@
     "source": "Hermeus",
     "type": "lever",
     "status": "OK",
-    "rows": 80
+    "rows": 79
   },
   {
     "source": "Layup Parts",
