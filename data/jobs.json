@@ -592,6 +592,36 @@
     "misses": 0
   },
   {
+    "id": "b038750f250b582d",
+    "company": "Pacific Fusion",
+    "title": "Summer 2027 Controls Electrical Engineer Internship",
+    "location": "San Leandro, CA",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505719009",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:pacificfusion",
+    "summary": "About Pacific Fusion Pacific Fusion was founded in 2023 with the mission to power the world with abundant, affordable, clean energy. We are rapidly designing and building a pulser-driven inertial fusion system to achieve net facility gain (more fusion energy output than stored energy input). In parallel, we are developing the key components required to build affordable fusion systems. Our plans are ambitious. We have raised over $900M so far from",
+    "score": 70,
+    "category": "PCB / Hardware",
+    "tags": [
+      "PCB / Hardware",
+      "Power / EV / Controls",
+      "FPGA / ASIC / Digital",
+      "Analog / Mixed-signal"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S.-person / protected status required",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "u need assistance or any accommodation, please let us know. U.S. EXPORT CONTROL COMPLIANCE This position may require access to information or technology that is subject to U.S. export control la … uire access to information or technology that is subject to U.S. export control laws, such as ITAR or EAR. Under these regulations, we are required ",
+    "company_type": "Startup watch",
+    "posted_at": "2026-11-20",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "dd34faa520129ff8",
     "company": "Anduril",
     "title": "2027 Flight Test Engineer Intern",
@@ -797,7 +827,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "29d9758492712db5",
@@ -3208,34 +3238,6 @@
     "misses": 0
   },
   {
-    "id": "740497a61cf70803",
-    "company": "Antares",
-    "title": "Space Mechanical Design Engineering Intern - Summer 2027",
-    "location": "Los Angeles",
-    "url": "https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81",
-    "source": "Employer ATS",
-    "source_key": "ashby:Antares",
-    "summary": "About Us At Antares, our long-term mission is to make clean energy abundant from Earth to the Asteroid Belt. We’re fueled by the belief that advanced nuclear energy can strengthen our military, solve the climate crisis, elevate global living standards, and expand humanity's presence in outer space. To achieve our mission, we’re building mass-producible, inherently safe, deployable microreactors that can be used terrestrially, underwater, and in s",
-    "score": 47,
-    "category": "FPGA / ASIC / Digital",
-    "tags": [
-      "FPGA / ASIC / Digital",
-      "Power / EV / Controls"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "l or physical disability, or any other legally protected status. ITAR REQUIREMENTS To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, ( … U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refu",
-    "company_type": "Startup watch",
-    "posted_at": "2026-09-18",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-20",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "1967cfef86ac34e3",
     "company": "General Matter",
     "title": "Summer 2027 Internship - Supply Chain",
@@ -4334,6 +4336,33 @@
     "misses": 0
   },
   {
+    "id": "1dafd3d47ee5ea39",
+    "company": "Pacific Fusion",
+    "title": "Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship",
+    "location": "San Leandro, CA",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:pacificfusion",
+    "summary": "About Pacific Fusion Pacific Fusion was founded in 2023 with the mission to power the world with abundant, affordable, clean energy. We are rapidly designing and building a pulser-driven inertial fusion system to achieve net facility gain (more fusion energy output than stored energy input). In parallel, we are developing the key components required to build affordable fusion systems. Our plans are ambitious. We have raised over $900M so far from",
+    "score": 40,
+    "category": "Photonics / RF",
+    "tags": [
+      "Photonics / RF"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S.-person / protected status required",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "u need assistance or any accommodation, please let us know. U.S. EXPORT CONTROL COMPLIANCE This position may require access to information or technology that is subject to U.S. export control la … uire access to information or technology that is subject to U.S. export control laws, such as ITAR or EAR. Under these regulations, we are required ",
+    "company_type": "Startup watch",
+    "posted_at": "2026-11-20",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "9655a361e650827c",
     "company": "Anduril",
     "title": "2027 Library Science Intern",
@@ -5263,7 +5292,7 @@
   {
     "id": "3e2ce9da9273d310",
     "company": "Pacific Fusion",
-    "title": "Summer 2027 Nuclear Diagnostics Mechanical Engineer Internship",
+    "title": "Summer 2027 Nuclear Diagnostics Mechanical Engineering Internship",
     "location": "San Leandro, CA",
     "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4505884009",
     "source": "Employer ATS",
@@ -5583,7 +5612,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "fd041960149049d0",
@@ -5788,7 +5817,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "b354554846881e08",
@@ -5818,7 +5847,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5848,7 +5877,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 10
+    "misses": 11
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5878,7 +5907,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5936,7 +5965,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "f200d44d13b244b5",
@@ -5966,7 +5995,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-19",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "5493609e507397a7",
@@ -5994,7 +6023,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "34de9be4aabe9182",
@@ -6107,7 +6136,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "1af8612d28688df1",
@@ -6166,7 +6195,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 10
+    "misses": 11
   },
   {
     "id": "03ec6014a6da6a0f",
@@ -6193,7 +6222,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6223,7 +6252,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "356003dfc9b6245d",
@@ -6250,7 +6279,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "04bb412e17b53748",
@@ -6278,7 +6307,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 10
+    "misses": 11
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6361,7 +6390,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "80424ff96460d947",
@@ -6388,7 +6417,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "2495324cf621a408",
@@ -6415,7 +6444,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6442,7 +6471,35 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 12
+    "misses": 13
+  },
+  {
+    "id": "740497a61cf70803",
+    "company": "Antares",
+    "title": "Space Mechanical Design Engineering Intern - Summer 2027",
+    "location": "Los Angeles",
+    "url": "https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81",
+    "source": "Employer ATS",
+    "source_key": "ashby:Antares",
+    "summary": "About Us At Antares, our long-term mission is to make clean energy abundant from Earth to the Asteroid Belt. We’re fueled by the belief that advanced nuclear energy can strengthen our military, solve the climate crisis, elevate global living standards, and expand humanity's presence in outer space. To achieve our mission, we’re building mass-producible, inherently safe, deployable microreactors that can be used terrestrially, underwater, and in s",
+    "score": 47,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital",
+      "Power / EV / Controls"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "l or physical disability, or any other legally protected status. ITAR REQUIREMENTS To conform to U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, ( … U.S. Government export regulations, applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refu",
+    "company_type": "Startup watch",
+    "posted_at": "2026-09-18",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-20",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "b9de181f4e04efd8",
@@ -6469,7 +6526,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "9a10f50cab95c1f5",
@@ -6496,7 +6553,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6523,7 +6580,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "e5d3862136ac6c76",
