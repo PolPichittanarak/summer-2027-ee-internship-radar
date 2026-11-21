@@ -51,19 +51,19 @@
     "source": "Hardware Jobs (TrakkerHQ)",
     "type": "community",
     "status": "OK",
-    "rows": 281
+    "rows": 268
   },
   {
     "source": "Simplify Summer 2027",
     "type": "community",
     "status": "OK",
-    "rows": 211
+    "rows": 203
   },
   {
     "source": "Anduril",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2636
+    "rows": 2631
   },
   {
     "source": "Astranis",
@@ -105,7 +105,7 @@
     "source": "Muon Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 136
+    "rows": 137
   },
   {
     "source": "Pacific Fusion",
@@ -123,13 +123,13 @@
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 556
+    "rows": 557
   },
   {
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2816
+    "rows": 2821
   },
   {
     "source": "Stoke Space",
