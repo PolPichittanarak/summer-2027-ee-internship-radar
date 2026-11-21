@@ -57,7 +57,7 @@
     "source": "Simplify Summer 2027",
     "type": "community",
     "status": "OK",
-    "rows": 205
+    "rows": 204
   },
   {
     "source": "Anduril",
@@ -105,7 +105,7 @@
     "source": "Muon Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 137
+    "rows": 138
   },
   {
     "source": "Pacific Fusion",
@@ -129,7 +129,7 @@
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2821
+    "rows": 2841
   },
   {
     "source": "Stoke Space",
