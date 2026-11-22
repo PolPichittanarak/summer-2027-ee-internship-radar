@@ -1203,7 +1203,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "172efe7c7ccac12e",
@@ -5742,7 +5742,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "b354554846881e08",
@@ -5772,7 +5772,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5802,7 +5802,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 15
+    "misses": 16
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5832,7 +5832,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 12
+    "misses": 13
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5890,7 +5890,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "f200d44d13b244b5",
@@ -5920,7 +5920,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-19",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "6d9b741766044b7a",
@@ -5950,7 +5950,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "5493609e507397a7",
@@ -5978,7 +5978,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 13
+    "misses": 14
   },
   {
     "id": "34de9be4aabe9182",
@@ -6091,7 +6091,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "1af8612d28688df1",
@@ -6148,7 +6148,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "4ce8193bde7d3775",
@@ -6178,7 +6178,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 15
+    "misses": 16
   },
   {
     "id": "03ec6014a6da6a0f",
@@ -6205,7 +6205,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6235,7 +6235,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "356003dfc9b6245d",
@@ -6262,7 +6262,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 12
+    "misses": 13
   },
   {
     "id": "04bb412e17b53748",
@@ -6290,7 +6290,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 15
+    "misses": 16
   },
   {
     "id": "4206365e54097fab",
@@ -6317,7 +6317,7 @@
     "first_seen": "2026-11-19",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6400,7 +6400,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "0063a0266825a7c9",
@@ -6427,7 +6427,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "80424ff96460d947",
@@ -6454,7 +6454,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "2495324cf621a408",
@@ -6481,7 +6481,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6508,7 +6508,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 17
+    "misses": 18
   },
   {
     "id": "740497a61cf70803",
@@ -6536,7 +6536,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "b9de181f4e04efd8",
@@ -6563,7 +6563,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "9a10f50cab95c1f5",
@@ -6590,7 +6590,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6617,7 +6617,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "d5d5281809d1eb1d",
@@ -6642,7 +6642,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "e5d3862136ac6c76",
