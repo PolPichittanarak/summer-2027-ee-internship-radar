@@ -2173,33 +2173,6 @@
     "misses": 0
   },
   {
-    "id": "e138a36514718098",
-    "company": "Astranis",
-    "title": "FPGA Intern - Summer 2027",
-    "location": "SF",
-    "url": "https://simplify.jobs/p/78ea3e37-1705-4202-b6a2-e8ed3c80db97",
-    "source": "Community: Simplify Summer 2027",
-    "source_key": "community:Simplify Summer 2027",
-    "summary": "",
-    "score": 54,
-    "category": "FPGA / ASIC / Digital",
-    "tags": [
-      "FPGA / ASIC / Digital"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Startup watch",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-22",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "2172dfaa4ef5855c",
     "company": "Marvell",
     "title": "Hardware Signal Integrity Intern, MS - Summer 2027",
@@ -2608,60 +2581,6 @@
     "last_seen": "2026-11-23",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "687d05e92c1de7f2",
-    "company": "Rivian",
-    "title": "Software Engineering Intern - Embedded Platforms (Summer 2027)",
-    "location": "Palo Alto, California",
-    "url": "https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 51,
-    "category": "Embedded / Firmware",
-    "tags": [
-      "Embedded / Firmware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-22",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
-    "id": "237c1a12c09965ac",
-    "company": "Rivian",
-    "title": "Software Engineering Intern - Embedded Platforms (Summer 2027)",
-    "location": "Vancouver, British Columbia",
-    "url": "https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 51,
-    "category": "Embedded / Firmware",
-    "tags": [
-      "Embedded / Firmware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-22",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "a46bfbb140194aa1",
@@ -3934,33 +3853,6 @@
     "misses": 0
   },
   {
-    "id": "760da63e72113138",
-    "company": "Peak-Energy",
-    "title": "Systems Integration and Test Engineer Intern (Summer 2027)",
-    "location": "Burlingame, California",
-    "url": "https://peakenergy.com/get-in-touch/careers/jobs",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 45,
-    "category": "Test / Product / Reliability",
-    "tags": [
-      "Test / Product / Reliability"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-22",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "f9b7855b0ff7ba26",
     "company": "Snc",
     "title": "Firmware Engineer Intern (Summer 2027)",
@@ -4094,33 +3986,6 @@
     "last_seen": "2026-11-23",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "b94ad5bf96ef523e",
-    "company": "Rivian",
-    "title": "Software Engineering Intern - Vehicle Controls (Summer 2027)",
-    "location": "Palo Alto, California",
-    "url": "https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 44,
-    "category": "Broad EE",
-    "tags": [
-      "Broad EE"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-22",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "446ad0c8bf3d3ee6",
@@ -5741,7 +5606,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 18
+    "misses": 19
   },
   {
     "id": "b354554846881e08",
@@ -5771,7 +5636,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 15
+    "misses": 16
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5801,7 +5666,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 19
+    "misses": 20
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5831,7 +5696,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5889,7 +5754,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "f200d44d13b244b5",
@@ -5919,7 +5784,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-19",
     "opening": "Check opening",
-    "misses": 12
+    "misses": 13
   },
   {
     "id": "6d9b741766044b7a",
@@ -5949,7 +5814,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "5493609e507397a7",
@@ -5977,7 +5842,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 17
+    "misses": 18
   },
   {
     "id": "34de9be4aabe9182",
@@ -6090,7 +5955,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
   },
   {
     "id": "8c3e6ad1864c5c3e",
@@ -6118,7 +5983,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "1af8612d28688df1",
@@ -6175,7 +6040,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "4ce8193bde7d3775",
@@ -6205,7 +6070,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 19
+    "misses": 20
   },
   {
     "id": "03ec6014a6da6a0f",
@@ -6232,7 +6097,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6262,7 +6127,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 18
+    "misses": 19
   },
   {
     "id": "356003dfc9b6245d",
@@ -6289,7 +6154,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "04bb412e17b53748",
@@ -6317,7 +6182,34 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 19
+    "misses": 20
+  },
+  {
+    "id": "e138a36514718098",
+    "company": "Astranis",
+    "title": "FPGA Intern - Summer 2027",
+    "location": "SF",
+    "url": "https://simplify.jobs/p/78ea3e37-1705-4202-b6a2-e8ed3c80db97",
+    "source": "Community: Simplify Summer 2027",
+    "source_key": "community:Simplify Summer 2027",
+    "summary": "",
+    "score": 54,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Startup watch",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-22",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "4206365e54097fab",
@@ -6344,7 +6236,7 @@
     "first_seen": "2026-11-19",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6427,7 +6319,61 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
+  },
+  {
+    "id": "687d05e92c1de7f2",
+    "company": "Rivian",
+    "title": "Software Engineering Intern - Embedded Platforms (Summer 2027)",
+    "location": "Palo Alto, California",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 51,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-22",
+    "opening": "Check opening",
+    "misses": 2
+  },
+  {
+    "id": "237c1a12c09965ac",
+    "company": "Rivian",
+    "title": "Software Engineering Intern - Embedded Platforms (Summer 2027)",
+    "location": "Vancouver, British Columbia",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 51,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-22",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "0063a0266825a7c9",
@@ -6454,7 +6400,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "80424ff96460d947",
@@ -6481,7 +6427,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
   },
   {
     "id": "2495324cf621a408",
@@ -6508,7 +6454,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6535,7 +6481,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "740497a61cf70803",
@@ -6563,7 +6509,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 10
+    "misses": 11
   },
   {
     "id": "b9de181f4e04efd8",
@@ -6590,7 +6536,34 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
+  },
+  {
+    "id": "760da63e72113138",
+    "company": "Peak-Energy",
+    "title": "Systems Integration and Test Engineer Intern (Summer 2027)",
+    "location": "Burlingame, California",
+    "url": "https://peakenergy.com/get-in-touch/careers/jobs",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 45,
+    "category": "Test / Product / Reliability",
+    "tags": [
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-22",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "9a10f50cab95c1f5",
@@ -6617,7 +6590,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6644,7 +6617,34 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
+  },
+  {
+    "id": "b94ad5bf96ef523e",
+    "company": "Rivian",
+    "title": "Software Engineering Intern - Vehicle Controls (Summer 2027)",
+    "location": "Palo Alto, California",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 44,
+    "category": "Broad EE",
+    "tags": [
+      "Broad EE"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-22",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "d5d5281809d1eb1d",
@@ -6669,7 +6669,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "e5d3862136ac6c76",

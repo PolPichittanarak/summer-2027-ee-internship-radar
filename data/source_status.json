@@ -15,7 +15,7 @@
     "source": "Etched",
     "type": "ashby",
     "status": "OK",
-    "rows": 117
+    "rows": 116
   },
   {
     "source": "Heron Power",
@@ -57,7 +57,7 @@
     "source": "Simplify Summer 2027",
     "type": "community",
     "status": "OK",
-    "rows": 198
+    "rows": 196
   },
   {
     "source": "Anduril",
@@ -123,7 +123,7 @@
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 556
+    "rows": 554
   },
   {
     "source": "SpaceX",
