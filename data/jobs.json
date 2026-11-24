@@ -1205,7 +1205,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "c36d9af101d6f22c",
@@ -2359,7 +2359,7 @@
   },
   {
     "id": "56f695eed1173ae4",
-    "company": "↳",
+    "company": "Lightmatter",
     "title": "Analog Engineering Intern - Summer 2027",
     "location": "Mountain View, CA",
     "url": "https://simplify.jobs/p/57e7d759-c401-447e-9555-e80a8eb1261f",
@@ -2437,33 +2437,6 @@
     "last_seen": "2026-11-24",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "294b11dbaedac140",
-    "company": "Lucid Motors",
-    "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
-    "location": "Newark, CA",
-    "url": "https://lucidmotors.com/careers/search/5290800007",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 51,
-    "category": "Embedded / Firmware",
-    "tags": [
-      "Embedded / Firmware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-20",
-    "last_seen": "2026-11-24",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "60349b83e5e4df5d",
@@ -3601,60 +3574,6 @@
     "misses": 0
   },
   {
-    "id": "c78272fcc3690f8f",
-    "company": "Globalfoundries",
-    "title": "CPU IP Design & Verification Intern – RISC-V Processor Development (Summer 2027)",
-    "location": "USA - Texas - Austin; USA - California - Santa Clara",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 45,
-    "category": "Test / Product / Reliability",
-    "tags": [
-      "Test / Product / Reliability"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-24",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
-    "id": "07013df6b76ed124",
-    "company": "Globalfoundries",
-    "title": "New Product Development Test Engineer Intern (Summer 2027)",
-    "location": "USA - Texas - Richardson",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 45,
-    "category": "Test / Product / Reliability",
-    "tags": [
-      "Test / Product / Reliability"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-24",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "527f82c079c84493",
     "company": "Hubbell",
     "title": "2027 Summer Intern: Engineering (Firmware) - Farmington, CT",
@@ -4222,6 +4141,33 @@
     "misses": 0
   },
   {
+    "id": "d396efed39be1bf6",
+    "company": "Apex Technology",
+    "title": "Mechanical Ground Systems Engineering Internship (Summer 2027)",
+    "location": "Los Angeles",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/e34724bd-0db2-4433-9352-7ad49d37e627",
+    "source": "Employer ATS",
+    "source_key": "ashby:apex-technology-inc",
+    "summary": "Spacecraft represent the most pressing unmet need across the entire aerospace industry. As more launch vehicles come online and the cost to orbit decreases, more companies launching payloads to space continue to emerge. For the first time in history, this influx of payload companies combined with reduced launch costs has resulted in a massive increase in need for commercial spacecraft platforms, known as satellite buses. These buses hold the payl",
+    "score": 38,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "teams to support successful hardware integration Requirements: - U.S. Person status is required as this position needs to access export-controlled data - Currently pursuing a Bachelor’s or Ma … dical, dental, and vision coverage and a 401(k) retirement plan. ITAR REQUIREMENTS Apex's work is governed by U.S. export control laws, including the I",
+    "company_type": "Startup watch",
+    "posted_at": "2026-11-24",
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-24",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "b748feaecf1bca71",
     "company": "DLR Group",
     "title": "Mechanical Engineering Intern | Summer 2027",
@@ -4487,6 +4433,33 @@
     "company_type": "Startup watch",
     "posted_at": "2026-10-22",
     "first_seen": "2026-11-16",
+    "last_seen": "2026-11-24",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "43dfd657b878597a",
+    "company": "Pacific Fusion",
+    "title": "Summer 2027 Inventory, Facility, and Logistics Internship",
+    "location": "Los Lunas, NM",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4517332009",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:pacificfusion",
+    "summary": "About Pacific Fusion Pacific Fusion was founded in 2023 with the mission to power the world with abundant, affordable, clean energy. We are rapidly designing and building a pulser-driven inertial fusion system to achieve net facility gain (more fusion energy output than stored energy input). In parallel, we are developing the key components required to build affordable fusion systems. Our plans are ambitious. We have raised over $900M so far from",
+    "score": 38,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S.-person / protected status required",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "u need assistance or any accommodation, please let us know. U.S. EXPORT CONTROL COMPLIANCE This position may require access to information or technology that is subject to U.S. export control la … uire access to information or technology that is subject to U.S. export control laws, such as ITAR or EAR. Under these regulations, we are required ",
+    "company_type": "Startup watch",
+    "posted_at": "2026-11-24",
+    "first_seen": "2026-11-24",
     "last_seen": "2026-11-24",
     "opening": "Listed",
     "misses": 0
@@ -4963,7 +4936,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "6b8d189c26e715c9",
@@ -5363,7 +5336,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "35ca1658333bed6a",
@@ -5543,7 +5516,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "b354554846881e08",
@@ -5573,7 +5546,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 18
+    "misses": 19
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5603,7 +5576,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5633,7 +5606,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 19
+    "misses": 20
   },
   {
     "id": "41482c318f757ed5",
@@ -5663,7 +5636,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5723,7 +5696,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "c5b2c4818253dae1",
@@ -5751,7 +5724,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "f200d44d13b244b5",
@@ -5781,7 +5754,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-19",
     "opening": "Check opening",
-    "misses": 15
+    "misses": 16
   },
   {
     "id": "6d9b741766044b7a",
@@ -5811,7 +5784,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 12
+    "misses": 13
   },
   {
     "id": "5493609e507397a7",
@@ -5839,7 +5812,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
   },
   {
     "id": "34de9be4aabe9182",
@@ -5952,7 +5925,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 23
+    "misses": 24
   },
   {
     "id": "8c3e6ad1864c5c3e",
@@ -5980,7 +5953,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "1af8612d28688df1",
@@ -6037,7 +6010,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "4ce8193bde7d3775",
@@ -6067,7 +6040,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "96b1c86ee42fb95b",
@@ -6097,7 +6070,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "03ec6014a6da6a0f",
@@ -6124,7 +6097,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6154,7 +6127,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "356003dfc9b6245d",
@@ -6181,7 +6154,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 19
+    "misses": 20
   },
   {
     "id": "04bb412e17b53748",
@@ -6209,7 +6182,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "e138a36514718098",
@@ -6236,7 +6209,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "4206365e54097fab",
@@ -6263,7 +6236,7 @@
     "first_seen": "2026-11-19",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6322,6 +6295,33 @@
     "company_type": "Startup watch"
   },
   {
+    "id": "294b11dbaedac140",
+    "company": "Lucid Motors",
+    "title": "Intern, Embedded Software – BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
+    "location": "Newark, CA",
+    "url": "https://lucidmotors.com/careers/search/5290800007",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 51,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-24",
+    "opening": "Check opening",
+    "misses": 2
+  },
+  {
     "id": "5ac946df952a4a0d",
     "company": "Raytheon",
     "title": "Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite)",
@@ -6346,7 +6346,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 23
+    "misses": 24
   },
   {
     "id": "687d05e92c1de7f2",
@@ -6373,7 +6373,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "237c1a12c09965ac",
@@ -6400,7 +6400,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "0063a0266825a7c9",
@@ -6427,7 +6427,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "80424ff96460d947",
@@ -6454,7 +6454,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 23
+    "misses": 24
   },
   {
     "id": "2495324cf621a408",
@@ -6481,7 +6481,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 23
+    "misses": 24
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6508,7 +6508,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 24
+    "misses": 25
   },
   {
     "id": "740497a61cf70803",
@@ -6536,7 +6536,34 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 13
+    "misses": 14
+  },
+  {
+    "id": "c78272fcc3690f8f",
+    "company": "Globalfoundries",
+    "title": "CPU IP Design & Verification Intern – RISC-V Processor Development (Summer 2027)",
+    "location": "USA - Texas - Austin; USA - California - Santa Clara",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 45,
+    "category": "Test / Product / Reliability",
+    "tags": [
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-24",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "b9de181f4e04efd8",
@@ -6563,7 +6590,34 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
+  },
+  {
+    "id": "07013df6b76ed124",
+    "company": "Globalfoundries",
+    "title": "New Product Development Test Engineer Intern (Summer 2027)",
+    "location": "USA - Texas - Richardson",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/New-Product-Development-Test-Engineer-Intern--Summer-2027-_JR-2603957",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 45,
+    "category": "Test / Product / Reliability",
+    "tags": [
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-24",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "760da63e72113138",
@@ -6590,7 +6644,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "9a10f50cab95c1f5",
@@ -6617,7 +6671,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6644,7 +6698,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 23
+    "misses": 24
   },
   {
     "id": "b94ad5bf96ef523e",
@@ -6671,7 +6725,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "ee43bfd36200193a",
@@ -6698,7 +6752,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "d5d5281809d1eb1d",
@@ -6723,7 +6777,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 12
+    "misses": 13
   },
   {
     "id": "e5d3862136ac6c76",
