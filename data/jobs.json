@@ -239,36 +239,6 @@
     "misses": 0
   },
   {
-    "id": "4fcd2fcacbfabf2a",
-    "company": "SpaceX",
-    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:spacex",
-    "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars. SUMMER 2027 SILICON ENGINEERING INTERNSHIP/CO-OP SpaceX seeks extraordinary students to join us for silicon hardware engineering roles in Summer 2027. As a silicon ",
-    "score": 79,
-    "category": "FPGA / ASIC / Digital",
-    "tags": [
-      "FPGA / ASIC / Digital",
-      "Test / Product / Reliability",
-      "Analog / Mixed-signal",
-      "Embedded / Firmware"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "experience Applicant for this intern position must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, o … osition must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv)",
-    "company_type": "Other / discovered",
-    "posted_at": "2026-08-03",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-24",
-    "opening": "Listed",
-    "misses": 0
-  },
-  {
     "id": "f8cd89cae6afa469",
     "company": "Anduril",
     "title": "2027 Electrical Engineer Intern",
@@ -327,36 +297,6 @@
     "last_seen": "2026-11-24",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "41482c318f757ed5",
-    "company": "General Matter",
-    "title": "Summer 2027 Internship - Electrical I&C Engineering",
-    "location": "Los Angeles, CA",
-    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376057008",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:generalmatter",
-    "summary": "About the Company General Matter enriches uranium. We are designing, building, and operating the world’s lowest-cost enrichment services, here in the US. &nbsp; In the process, we are restoring America’s ability to produce nuclear fuel to power AI, advanced manufacturing and critical industries our country relies on to remain competitive.&nbsp; Fuel drives the cost of advanced reactor electricity production, and enrichment drives the cost of the ",
-    "score": 77,
-    "category": "Power / EV / Controls",
-    "tags": [
-      "Power / EV / Controls",
-      "PCB / Hardware",
-      "Test / Product / Reliability",
-      "FPGA / ASIC / Digital"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Startup watch",
-    "posted_at": "2026-08-20",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-23",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "58d90d0954ca4a04",
@@ -591,36 +531,6 @@
     "last_seen": "2026-11-24",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "8f1c1ba6958671c3",
-    "company": "Parallel Systems",
-    "title": "Hardware Engineering Intern (Mechanical & Electrical)",
-    "location": "Los Angeles, CA",
-    "url": "https://boards.greenhouse.io/parallel/jobs/5275660007",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:parallel",
-    "summary": "Parallel Systems is pioneering autonomous battery-electric rail vehicles designed to transform freight transportation by shifting portions of the $900 billion U.S. trucking industry onto rail. Our innovative technology offers cleaner, safer, and more efficient logistics solutions. Join our dynamic team and help shape a smarter, greener future for global freight. Hardware Engineering Intern - Summer 2027 Internship &nbsp; The Hardware Engineering ",
-    "score": 71,
-    "category": "PCB / Hardware",
-    "tags": [
-      "PCB / Hardware",
-      "Power / EV / Controls",
-      "FPGA / ASIC / Digital",
-      "Test / Product / Reliability"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Startup watch",
-    "posted_at": "2026-10-26",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-23",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "ab3a173902ac9982",
@@ -1559,36 +1469,6 @@
     "last_seen": "2026-11-24",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "96b1c86ee42fb95b",
-    "company": "Muon Space",
-    "title": "Ground Software Engineering Intern (Summer 2027)",
-    "location": "San Jose, CA",
-    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:muonspace",
-    "summary": "About the role Muon is seeking Ground Software Engineering Interns to help build the software that powers high-performance satellite constellations. The Software Engineering team at Muon is responsible for software on the spacecraft, at ground stations, in the cloud, and visualization and simulation. As an intern, you won't be on the sidelines, you can look forward to owning a project from start to finish which could involve enabling a new type o",
-    "score": 58,
-    "category": "FPGA / ASIC / Digital",
-    "tags": [
-      "FPGA / ASIC / Digital",
-      "Power / EV / Controls",
-      "Photonics / RF",
-      "Test / Product / Reliability"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "s of race, color, ancestry, religion, sex, age, national origin, citizenship, sexual orientation, marital status, disability, or gender identity. We value diversity in the workplace, and that … , MD, MA, MI, MN, MO, NJ, NY, NC, OH, OR, PA, TN, TX, VT, VA, WA ITAR/EAR Requirements This position requires access to export controlled information. ",
-    "company_type": "Startup watch",
-    "posted_at": "2026-10-15",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-23",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "0b50d90def82707c",
@@ -2583,7 +2463,7 @@
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-24",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "60349b83e5e4df5d",
@@ -2608,6 +2488,33 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-20",
+    "last_seen": "2026-11-24",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "2907892a842f4df1",
+    "company": "Philips",
+    "title": "Intern – AI-Agentic Embedded Software Development - Bothell, WA - Summer 2027",
+    "location": "Bothell, Washington, USA",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---AI-Agentic-Embedded-Software-Development---Bothell--WA---Summer-2027_594989/apply",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 51,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-24",
     "last_seen": "2026-11-24",
     "opening": "Listed",
     "misses": 0
@@ -2717,6 +2624,33 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-17",
+    "last_seen": "2026-11-24",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "4fcd2fcacbfabf2a",
+    "company": "SpaceX",
+    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:spacex",
+    "summary": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars. SUMMER 2027 SILICON ENGINEERING INTERNSHIP/CO-OP SpaceX seeks extraordinary students to join us for silicon hardware engineering roles in Summer 2027. As a silicon ",
+    "score": 50,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "experience Applicant for this intern position must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, o … osition must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (e.g., green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv)",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-08-03",
+    "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Listed",
     "misses": 0
@@ -3691,7 +3625,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "07013df6b76ed124",
@@ -3718,7 +3652,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "527f82c079c84493",
@@ -3851,6 +3785,33 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-16",
+    "last_seen": "2026-11-24",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "c6af706623893a94",
+    "company": "SharkNinja",
+    "title": "Summer 2027: Firmware Engineering Intern, Advanced Development (May to August)",
+    "location": "Needham, MA, USA",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721682006",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 45,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-24",
     "last_seen": "2026-11-24",
     "opening": "Listed",
     "misses": 0
@@ -4774,33 +4735,6 @@
     "misses": 0
   },
   {
-    "id": "ee43bfd36200193a",
-    "company": "Rocket Lab",
-    "title": "Systems Engineering Intern Summer 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:rocketlab",
-    "summary": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity’s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a&nbsp;Systems&nbsp;Engineering Intern based at Rocket Lab’s site in Long Beach, California, you will have the op",
-    "score": 37,
-    "category": "Test / Product / Reliability",
-    "tags": [
-      "Test / Product / Reliability"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "U.S. person OR export authorization",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "ations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), o … in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitte",
-    "company_type": "Other / discovered",
-    "posted_at": "2026-09-09",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-23",
-    "opening": "Listed",
-    "misses": 1
-  },
-  {
     "id": "a332ff0f2d1c7b85",
     "company": "Rocket Lab",
     "title": "Systems Engineering Intern Summer 2027",
@@ -5609,7 +5543,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
   },
   {
     "id": "b354554846881e08",
@@ -5639,7 +5573,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 17
+    "misses": 18
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5669,7 +5603,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5699,7 +5633,37 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 18
+    "misses": 19
+  },
+  {
+    "id": "41482c318f757ed5",
+    "company": "General Matter",
+    "title": "Summer 2027 Internship - Electrical I&C Engineering",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376057008",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:generalmatter",
+    "summary": "About the Company General Matter enriches uranium. We are designing, building, and operating the world’s lowest-cost enrichment services, here in the US. &nbsp; In the process, we are restoring America’s ability to produce nuclear fuel to power AI, advanced manufacturing and critical industries our country relies on to remain competitive.&nbsp; Fuel drives the cost of advanced reactor electricity production, and enrichment drives the cost of the ",
+    "score": 77,
+    "category": "Power / EV / Controls",
+    "tags": [
+      "Power / EV / Controls",
+      "PCB / Hardware",
+      "Test / Product / Reliability",
+      "FPGA / ASIC / Digital"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Startup watch",
+    "posted_at": "2026-08-20",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5732,6 +5696,36 @@
     "company_type": "Other / discovered"
   },
   {
+    "id": "8f1c1ba6958671c3",
+    "company": "Parallel Systems",
+    "title": "Hardware Engineering Intern (Mechanical & Electrical)",
+    "location": "Los Angeles, CA",
+    "url": "https://boards.greenhouse.io/parallel/jobs/5275660007",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:parallel",
+    "summary": "Parallel Systems is pioneering autonomous battery-electric rail vehicles designed to transform freight transportation by shifting portions of the $900 billion U.S. trucking industry onto rail. Our innovative technology offers cleaner, safer, and more efficient logistics solutions. Join our dynamic team and help shape a smarter, greener future for global freight. Hardware Engineering Intern - Summer 2027 Internship &nbsp; The Hardware Engineering ",
+    "score": 71,
+    "category": "PCB / Hardware",
+    "tags": [
+      "PCB / Hardware",
+      "Power / EV / Controls",
+      "FPGA / ASIC / Digital",
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Startup watch",
+    "posted_at": "2026-10-26",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "opening": "Check opening",
+    "misses": 2
+  },
+  {
     "id": "c5b2c4818253dae1",
     "company": "NVIDIA",
     "title": "ASIC Verification Intern - Summer 2027",
@@ -5757,7 +5751,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 13
+    "misses": 14
   },
   {
     "id": "f200d44d13b244b5",
@@ -5787,7 +5781,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-19",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "6d9b741766044b7a",
@@ -5817,7 +5811,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "5493609e507397a7",
@@ -5845,7 +5839,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 19
+    "misses": 20
   },
   {
     "id": "34de9be4aabe9182",
@@ -5958,7 +5952,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "8c3e6ad1864c5c3e",
@@ -5986,7 +5980,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "1af8612d28688df1",
@@ -6043,7 +6037,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 10
+    "misses": 11
   },
   {
     "id": "4ce8193bde7d3775",
@@ -6073,7 +6067,37 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
+  },
+  {
+    "id": "96b1c86ee42fb95b",
+    "company": "Muon Space",
+    "title": "Ground Software Engineering Intern (Summer 2027)",
+    "location": "San Jose, CA",
+    "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:muonspace",
+    "summary": "About the role Muon is seeking Ground Software Engineering Interns to help build the software that powers high-performance satellite constellations. The Software Engineering team at Muon is responsible for software on the spacecraft, at ground stations, in the cloud, and visualization and simulation. As an intern, you won't be on the sidelines, you can look forward to owning a project from start to finish which could involve enabling a new type o",
+    "score": 58,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital",
+      "Power / EV / Controls",
+      "Photonics / RF",
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "s of race, color, ancestry, religion, sex, age, national origin, citizenship, sexual orientation, marital status, disability, or gender identity. We value diversity in the workplace, and that … , MD, MA, MI, MN, MO, NJ, NY, NC, OH, OR, PA, TN, TX, VT, VA, WA ITAR/EAR Requirements This position requires access to export controlled information. ",
+    "company_type": "Startup watch",
+    "posted_at": "2026-10-15",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "03ec6014a6da6a0f",
@@ -6100,7 +6124,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 13
+    "misses": 14
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6130,7 +6154,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
   },
   {
     "id": "356003dfc9b6245d",
@@ -6157,7 +6181,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 18
+    "misses": 19
   },
   {
     "id": "04bb412e17b53748",
@@ -6185,7 +6209,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "e138a36514718098",
@@ -6212,7 +6236,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "4206365e54097fab",
@@ -6239,7 +6263,7 @@
     "first_seen": "2026-11-19",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 10
+    "misses": 11
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6322,7 +6346,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "687d05e92c1de7f2",
@@ -6349,7 +6373,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "237c1a12c09965ac",
@@ -6376,7 +6400,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "0063a0266825a7c9",
@@ -6403,7 +6427,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 10
+    "misses": 11
   },
   {
     "id": "80424ff96460d947",
@@ -6430,7 +6454,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "2495324cf621a408",
@@ -6457,7 +6481,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6484,7 +6508,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 23
+    "misses": 24
   },
   {
     "id": "740497a61cf70803",
@@ -6512,7 +6536,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 12
+    "misses": 13
   },
   {
     "id": "b9de181f4e04efd8",
@@ -6539,7 +6563,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 13
+    "misses": 14
   },
   {
     "id": "760da63e72113138",
@@ -6566,7 +6590,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "9a10f50cab95c1f5",
@@ -6593,7 +6617,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 13
+    "misses": 14
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6620,7 +6644,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "b94ad5bf96ef523e",
@@ -6647,7 +6671,34 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
+  },
+  {
+    "id": "ee43bfd36200193a",
+    "company": "Rocket Lab",
+    "title": "Systems Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:rocketlab",
+    "summary": "ABOUT ROCKET LAB Rocket Lab is the end-to-end space company building rockets, spacecraft, and critical subsystems that keep the world connected, protected, expand humanity’s reach to the Moon, Mars, and beyond. We move fast, build real hardware for meaningful missions, and make the impossible routine. Come shape the future with us. As a&nbsp;Systems&nbsp;Engineering Intern based at Rocket Lab’s site in Long Beach, California, you will have the op",
+    "score": 37,
+    "category": "Test / Product / Reliability",
+    "tags": [
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "ations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), o … in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitte",
+    "company_type": "Other / discovered",
+    "posted_at": "2026-09-09",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-23",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "d5d5281809d1eb1d",
@@ -6672,7 +6723,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "e5d3862136ac6c76",
