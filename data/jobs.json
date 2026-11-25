@@ -1120,6 +1120,62 @@
     "misses": 0
   },
   {
+    "id": "1d70530e6020fc99",
+    "company": "Lightmatter",
+    "title": "Design Verification, Intern Summer 2027",
+    "location": "Boston, MA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5493962008",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 63,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital",
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "212cbf56365660bd",
+    "company": "Lightmatter",
+    "title": "Design Verification, Intern Summer 2027",
+    "location": "Mountain View, CA",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5474684008",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 63,
+    "category": "FPGA / ASIC / Digital",
+    "tags": [
+      "FPGA / ASIC / Digital",
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "96307a3e59e5d509",
     "company": "Lightmatter",
     "title": "Silicon Validation & Test Automation, Intern Summer 2027",
@@ -2659,7 +2715,7 @@
     "first_seen": "2026-11-17",
     "last_seen": "2026-11-25",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "4fcd2fcacbfabf2a",
@@ -5526,7 +5582,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 23
+    "misses": 24
   },
   {
     "id": "b354554846881e08",
@@ -5556,7 +5612,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5586,7 +5642,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 24
+    "misses": 25
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5616,7 +5672,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "41482c318f757ed5",
@@ -5646,7 +5702,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5706,7 +5762,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "c5b2c4818253dae1",
@@ -5734,7 +5790,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "f200d44d13b244b5",
@@ -5764,7 +5820,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-19",
     "opening": "Check opening",
-    "misses": 17
+    "misses": 18
   },
   {
     "id": "6d9b741766044b7a",
@@ -5794,7 +5850,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "5493609e507397a7",
@@ -5822,7 +5878,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "34de9be4aabe9182",
@@ -5935,7 +5991,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 25
+    "misses": 26
   },
   {
     "id": "8c3e6ad1864c5c3e",
@@ -5963,7 +6019,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "1af8612d28688df1",
@@ -6022,7 +6078,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "567a73cfe6e9bae3",
@@ -6050,7 +6106,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 13
+    "misses": 14
   },
   {
     "id": "4ce8193bde7d3775",
@@ -6080,7 +6136,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 24
+    "misses": 25
   },
   {
     "id": "96b1c86ee42fb95b",
@@ -6110,7 +6166,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "03ec6014a6da6a0f",
@@ -6137,7 +6193,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6167,7 +6223,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 23
+    "misses": 24
   },
   {
     "id": "356003dfc9b6245d",
@@ -6194,7 +6250,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "04bb412e17b53748",
@@ -6222,7 +6278,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 24
+    "misses": 25
   },
   {
     "id": "e138a36514718098",
@@ -6249,7 +6305,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "4206365e54097fab",
@@ -6276,7 +6332,7 @@
     "first_seen": "2026-11-19",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 13
+    "misses": 14
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6359,7 +6415,7 @@
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "5ac946df952a4a0d",
@@ -6386,7 +6442,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 25
+    "misses": 26
   },
   {
     "id": "687d05e92c1de7f2",
@@ -6413,7 +6469,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "237c1a12c09965ac",
@@ -6440,7 +6496,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "0063a0266825a7c9",
@@ -6467,7 +6523,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 13
+    "misses": 14
   },
   {
     "id": "80424ff96460d947",
@@ -6494,7 +6550,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 25
+    "misses": 26
   },
   {
     "id": "2495324cf621a408",
@@ -6521,7 +6577,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 25
+    "misses": 26
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6548,7 +6604,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 26
+    "misses": 27
   },
   {
     "id": "740497a61cf70803",
@@ -6576,7 +6632,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 15
+    "misses": 16
   },
   {
     "id": "c78272fcc3690f8f",
@@ -6603,7 +6659,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "b9de181f4e04efd8",
@@ -6630,7 +6686,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "07013df6b76ed124",
@@ -6657,7 +6713,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "760da63e72113138",
@@ -6684,7 +6740,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "9a10f50cab95c1f5",
@@ -6711,7 +6767,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6738,7 +6794,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 25
+    "misses": 26
   },
   {
     "id": "b94ad5bf96ef523e",
@@ -6765,7 +6821,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 6
+    "misses": 7
   },
   {
     "id": "ee43bfd36200193a",
@@ -6792,7 +6848,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "a5e1c509ce8f8fab",
@@ -6817,7 +6873,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "fd041960149049d0",
@@ -6842,7 +6898,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 2
+    "misses": 3
   },
   {
     "id": "d5d5281809d1eb1d",
@@ -6867,7 +6923,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "e5d3862136ac6c76",
