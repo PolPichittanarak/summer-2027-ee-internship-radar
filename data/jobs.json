@@ -797,6 +797,36 @@
     "misses": 0
   },
   {
+    "id": "e1971b87ad4caa09",
+    "company": "Apex Technology",
+    "title": "Software Engineering, Operating Systems Internship (Summer 2027)",
+    "location": "Los Angeles",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915",
+    "source": "Employer ATS",
+    "source_key": "ashby:apex-technology-inc",
+    "summary": "Spacecraft represent the most pressing unmet need across the entire aerospace industry. As more launch vehicles come online and the cost to orbit decreases, more companies launching payloads to space continue to emerge. For the first time in history, this influx of payload companies combined with reduced launch costs has resulted in a massive increase in need for commercial spacecraft platforms, known as satellite buses. These buses hold the payl",
+    "score": 67,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware",
+      "Power / EV / Controls",
+      "PCB / Hardware",
+      "Test / Product / Reliability"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "reviews, and software development best practices REQUIREMENTS - U.S. Person status is required as this position needs to access export-controlled data - Currently pursuing a Bachelor’s or Ma … dical, dental, and vision coverage and a 401(k) retirement plan. ITAR REQUIREMENTS Apex's work is governed by U.S. export control laws, including the In",
+    "company_type": "Startup watch",
+    "posted_at": "2026-11-25",
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "29d9758492712db5",
     "company": "Xcimer Energy",
     "title": "Summer 2027 Internship - Experimental Lasers (Graduate)",
@@ -1288,6 +1318,36 @@
     "company_type": "Startup watch",
     "posted_at": "2026-09-11",
     "first_seen": "2026-11-16",
+    "last_seen": "2026-11-25",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "475edab2fa590da7",
+    "company": "Apex Technology",
+    "title": "Flight Software Engineering Internship (Summer 2027)",
+    "location": "Los Angeles",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3",
+    "source": "Employer ATS",
+    "source_key": "ashby:apex-technology-inc",
+    "summary": "Spacecraft represent the most pressing unmet need across the entire aerospace industry. As more launch vehicles come online and the cost to orbit decreases, more companies launching payloads to space continue to emerge. For the first time in history, this influx of payload companies combined with reduced launch costs has resulted in a massive increase in need for commercial spacecraft platforms, known as satellite buses. These buses hold the payl",
+    "score": 61,
+    "category": "Embedded / Firmware",
+    "tags": [
+      "Embedded / Firmware",
+      "Test / Product / Reliability",
+      "FPGA / ASIC / Digital",
+      "PCB / Hardware"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S. person OR export authorization",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "reviews, and software development best practices Requirements: - U.S. Person status is required as this position needs to access export-controlled data - Currently pursuing a Bachelor’s or Ma … dical, dental, and vision coverage and a 401(k) retirement plan. ITAR REQUIREMENTS Apex's work is governed by U.S. export control laws, including the I",
+    "company_type": "Startup watch",
+    "posted_at": "2026-11-25",
+    "first_seen": "2026-11-25",
     "last_seen": "2026-11-25",
     "opening": "Listed",
     "misses": 0
@@ -2689,33 +2749,6 @@
     "last_seen": "2026-11-25",
     "opening": "Listed",
     "misses": 0
-  },
-  {
-    "id": "ba4d42629ca76886",
-    "company": "Raytheon",
-    "title": "Hardware in the Loop Engineering Intern - (Summer 2027)",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927",
-    "source": "Community: Hardware Jobs (TrakkerHQ)",
-    "source_key": "community:Hardware Jobs (TrakkerHQ)",
-    "summary": "",
-    "score": 50,
-    "category": "Broad EE",
-    "tags": [
-      "Broad EE"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "No explicit requirement found in available description",
-    "company_type": "Other / discovered",
-    "posted_at": "",
-    "first_seen": "2026-11-17",
-    "last_seen": "2026-11-25",
-    "opening": "Listed",
-    "misses": 1
   },
   {
     "id": "4fcd2fcacbfabf2a",
@@ -5030,6 +5063,31 @@
     "misses": 0
   },
   {
+    "id": "a5e1c509ce8f8fab",
+    "company": "Apex Technology",
+    "title": "Software Engineering Internship, Test & Automation (Summer 2027)",
+    "location": "Los Angeles",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344",
+    "source": "Employer ATS",
+    "source_key": "ashby:apex-technology-inc",
+    "summary": "Spacecraft represent the most pressing unmet need across the entire aerospace industry. As more launch vehicles come online and the cost to orbit decreases, more companies launching payloads to space continue to emerge. For the first time in history, this influx of payload companies combined with reduced launch costs has resulted in a massive increase in need for commercial spacecraft platforms, known as satellite buses. These buses hold the payl",
+    "score": 30,
+    "category": "Broad EE",
+    "tags": [],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "dical, dental, and vision coverage and a 401(k) retirement plan. ITAR REQUIREMENTS Apex's work is governed by U.S. export control laws, including the International Traffic in Arms Regu … tirement plan. ITAR REQUIREMENTS Apex's work is governed by U.S. export control laws, including the International Traffic in Arms Regulations (ITAR) and the E",
+    "company_type": "Startup watch",
+    "posted_at": "2026-11-25",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-25",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "6b8d189c26e715c9",
     "company": "Etched",
     "title": "Growth Ops Intern",
@@ -5125,6 +5183,31 @@
     "company_type": "Startup watch",
     "posted_at": "2026-11-16",
     "first_seen": "2026-11-16",
+    "last_seen": "2026-11-25",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "feaef9296d8ebfd5",
+    "company": "Pacific Fusion",
+    "title": "Summer 2027 Positioning Systems Internship",
+    "location": "San Leandro, CA",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:pacificfusion",
+    "summary": "About Pacific Fusion Pacific Fusion was founded in 2023 with the mission to power the world with abundant, affordable, clean energy. We are rapidly designing and building a pulser-driven inertial fusion system to achieve net facility gain (more fusion energy output than stored energy input). In parallel, we are developing the key components required to build affordable fusion systems. Our plans are ambitious. We have raised over $900M so far from",
+    "score": 30,
+    "category": "Broad EE",
+    "tags": [],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "U.S.-person / protected status required",
+    "export_control": "ITAR/EAR controls mentioned",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "u need assistance or any accommodation, please let us know. U.S. EXPORT CONTROL COMPLIANCE This position may require access to information or technology that is subject to U.S. export control la … uire access to information or technology that is subject to U.S. export control laws, such as ITAR or EAR. Under these regulations, we are required ",
+    "company_type": "Startup watch",
+    "posted_at": "2026-11-25",
+    "first_seen": "2026-11-25",
     "last_seen": "2026-11-25",
     "opening": "Listed",
     "misses": 0
@@ -5582,7 +5665,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 24
+    "misses": 25
   },
   {
     "id": "b354554846881e08",
@@ -5612,7 +5695,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5642,7 +5725,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 25
+    "misses": 26
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5672,7 +5755,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "41482c318f757ed5",
@@ -5702,7 +5785,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5762,7 +5845,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "c5b2c4818253dae1",
@@ -5790,7 +5873,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 17
+    "misses": 18
   },
   {
     "id": "f200d44d13b244b5",
@@ -5820,7 +5903,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-19",
     "opening": "Check opening",
-    "misses": 18
+    "misses": 19
   },
   {
     "id": "6d9b741766044b7a",
@@ -5850,7 +5933,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 15
+    "misses": 16
   },
   {
     "id": "5493609e507397a7",
@@ -5878,7 +5961,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 23
+    "misses": 24
   },
   {
     "id": "34de9be4aabe9182",
@@ -5991,7 +6074,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 26
+    "misses": 27
   },
   {
     "id": "8c3e6ad1864c5c3e",
@@ -6019,7 +6102,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 10
+    "misses": 11
   },
   {
     "id": "1af8612d28688df1",
@@ -6078,7 +6161,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "567a73cfe6e9bae3",
@@ -6106,7 +6189,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "4ce8193bde7d3775",
@@ -6136,7 +6219,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 25
+    "misses": 26
   },
   {
     "id": "96b1c86ee42fb95b",
@@ -6166,7 +6249,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "03ec6014a6da6a0f",
@@ -6193,7 +6276,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 17
+    "misses": 18
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6223,7 +6306,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 24
+    "misses": 25
   },
   {
     "id": "356003dfc9b6245d",
@@ -6250,7 +6333,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "04bb412e17b53748",
@@ -6278,7 +6361,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 25
+    "misses": 26
   },
   {
     "id": "e138a36514718098",
@@ -6305,7 +6388,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "4206365e54097fab",
@@ -6332,7 +6415,7 @@
     "first_seen": "2026-11-19",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6415,7 +6498,7 @@
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "5ac946df952a4a0d",
@@ -6442,7 +6525,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 26
+    "misses": 27
   },
   {
     "id": "687d05e92c1de7f2",
@@ -6469,7 +6552,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "237c1a12c09965ac",
@@ -6496,7 +6579,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "0063a0266825a7c9",
@@ -6523,7 +6606,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "80424ff96460d947",
@@ -6550,7 +6633,34 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 26
+    "misses": 27
+  },
+  {
+    "id": "ba4d42629ca76886",
+    "company": "Raytheon",
+    "title": "Hardware in the Loop Engineering Intern - (Summer 2027)",
+    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Hardware-in-the-Loop-Engineering-Intern----Summer-2027-_01882927",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 50,
+    "category": "Broad EE",
+    "tags": [
+      "Broad EE"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-25",
+    "opening": "Check opening",
+    "misses": 2
   },
   {
     "id": "2495324cf621a408",
@@ -6577,7 +6687,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 26
+    "misses": 27
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6604,7 +6714,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 27
+    "misses": 28
   },
   {
     "id": "740497a61cf70803",
@@ -6632,7 +6742,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 16
+    "misses": 17
   },
   {
     "id": "c78272fcc3690f8f",
@@ -6659,7 +6769,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "b9de181f4e04efd8",
@@ -6686,7 +6796,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 17
+    "misses": 18
   },
   {
     "id": "07013df6b76ed124",
@@ -6713,7 +6823,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 4
+    "misses": 5
   },
   {
     "id": "760da63e72113138",
@@ -6740,7 +6850,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "9a10f50cab95c1f5",
@@ -6767,7 +6877,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 17
+    "misses": 18
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6794,7 +6904,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 26
+    "misses": 27
   },
   {
     "id": "b94ad5bf96ef523e",
@@ -6821,7 +6931,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "ee43bfd36200193a",
@@ -6848,32 +6958,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 5
-  },
-  {
-    "id": "a5e1c509ce8f8fab",
-    "company": "Apex Technology",
-    "title": "Software Engineering Internship, Test & Automation (Summer 2027)",
-    "location": "Los Angeles",
-    "url": "https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344",
-    "source": "Employer ATS",
-    "source_key": "ashby:apex-technology-inc",
-    "summary": "Spacecraft represent the most pressing unmet need across the entire aerospace industry. As more launch vehicles come online and the cost to orbit decreases, more companies launching payloads to space continue to emerge. For the first time in history, this influx of payload companies combined with reduced launch costs has resulted in a massive increase in need for commercial spacecraft platforms, known as satellite buses. These buses hold the payl",
-    "score": 30,
-    "category": "Broad EE",
-    "tags": [],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "ITAR/EAR controls mentioned",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "dical, dental, and vision coverage and a 401(k) retirement plan. ITAR REQUIREMENTS Apex's work is governed by U.S. export control laws, including the International Traffic in Arms Regu … tirement plan. ITAR REQUIREMENTS Apex's work is governed by U.S. export control laws, including the International Traffic in Arms Regulations (ITAR) and the E",
-    "company_type": "Startup watch",
-    "posted_at": "2026-11-05",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-24",
-    "opening": "Check opening",
-    "misses": 3
+    "misses": 6
   },
   {
     "id": "fd041960149049d0",
@@ -6898,7 +6983,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "d5d5281809d1eb1d",
@@ -6923,7 +7008,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 15
+    "misses": 16
   },
   {
     "id": "e5d3862136ac6c76",

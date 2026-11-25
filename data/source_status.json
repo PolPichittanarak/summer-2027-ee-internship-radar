@@ -9,7 +9,7 @@
     "source": "Apex Technology",
     "type": "ashby",
     "status": "OK",
-    "rows": 141
+    "rows": 145
   },
   {
     "source": "Etched",
@@ -33,19 +33,19 @@
     "source": "Revel",
     "type": "ashby",
     "status": "OK",
-    "rows": 30
+    "rows": 31
   },
   {
     "source": "Skydio",
     "type": "ashby",
     "status": "OK",
-    "rows": 184
+    "rows": 183
   },
   {
     "source": "Hardware Internships 2027",
     "type": "community",
     "status": "OK",
-    "rows": 13
+    "rows": 14
   },
   {
     "source": "Hardware Jobs (TrakkerHQ)",
@@ -57,13 +57,13 @@
     "source": "Simplify Summer 2027",
     "type": "community",
     "status": "OK",
-    "rows": 185
+    "rows": 184
   },
   {
     "source": "Anduril",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2603
+    "rows": 2599
   },
   {
     "source": "Astranis",
@@ -75,7 +75,7 @@
     "source": "DLR Group",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 149
+    "rows": 150
   },
   {
     "source": "Freeform",
@@ -87,7 +87,7 @@
     "source": "General Matter",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 132
+    "rows": 139
   },
   {
     "source": "HP IQ",
@@ -105,13 +105,13 @@
     "source": "Muon Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 130
+    "rows": 129
   },
   {
     "source": "Pacific Fusion",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 42
+    "rows": 43
   },
   {
     "source": "Parallel Systems",
@@ -123,19 +123,19 @@
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 547
+    "rows": 551
   },
   {
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2849
+    "rows": 2884
   },
   {
     "source": "Stoke Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 64
+    "rows": 63
   },
   {
     "source": "Hermeus",
@@ -147,7 +147,7 @@
     "source": "Layup Parts",
     "type": "lever",
     "status": "OK",
-    "rows": 23
+    "rows": 24
   },
   {
     "source": "Shield AI",
