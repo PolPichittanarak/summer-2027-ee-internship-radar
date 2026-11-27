@@ -1092,6 +1092,36 @@
     "misses": 0
   },
   {
+    "id": "4ca2711c78449552",
+    "company": "HP IQ",
+    "title": "Product Design Engineering Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6141235004",
+    "source": "Employer ATS",
+    "source_key": "greenhouse:hpiq",
+    "summary": "Who We Are HP IQ is HP’s new AI innovation lab. Combining startup agility with HP’s global scale, we’re building intelligent technologies that redefine how the world works, creates, and collaborates. We’re assembling a diverse, world-class team—engineers, designers, researchers, and product minds—focused on creating an intelligent ecosystem across HP’s portfolio. Together, we’re developing intuitive, adaptive solutions that spark creativity, boos",
+    "score": 64,
+    "category": "PCB / Hardware",
+    "tags": [
+      "PCB / Hardware",
+      "FPGA / ASIC / Digital",
+      "Power / EV / Controls",
+      "Photonics / RF"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical",
+    "company_type": "Startup watch",
+    "posted_at": "2026-10-26",
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-27",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
     "id": "6ae857928e1d9d0b",
     "company": "General Matter",
     "title": "Summer 2027 Internship - Information Security Engineer",
@@ -2310,7 +2340,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-27",
     "opening": "Listed",
-    "misses": 0
+    "misses": 1
   },
   {
     "id": "48ce6a1ac2101666",
@@ -2664,6 +2694,33 @@
     "company_type": "Other / discovered",
     "posted_at": "",
     "first_seen": "2026-11-24",
+    "last_seen": "2026-11-27",
+    "opening": "Listed",
+    "misses": 0
+  },
+  {
+    "id": "828a829173424570",
+    "company": "AMD",
+    "title": "Summer 2027 Hardware Engineering Intern",
+    "location": "Belfast, United Kingdom",
+    "url": "https://globalcampus-amd.icims.com/jobs/102333/login",
+    "source": "Community: Hardware Jobs (TrakkerHQ)",
+    "source_key": "community:Hardware Jobs (TrakkerHQ)",
+    "summary": "",
+    "score": 50,
+    "category": "Broad EE",
+    "tags": [
+      "Broad EE"
+    ],
+    "eligibility": "See restriction columns",
+    "citizenship_requirement": "Not stated",
+    "export_control": "Not stated",
+    "security_clearance": "Not stated",
+    "visa_sponsorship": "Not stated",
+    "eligibility_evidence": "No explicit requirement found in available description",
+    "company_type": "Other / discovered",
+    "posted_at": "",
+    "first_seen": "2026-11-27",
     "last_seen": "2026-11-27",
     "opening": "Listed",
     "misses": 0
@@ -3959,33 +4016,6 @@
     "eligibility_evidence": "No explicit requirement found in available description",
     "company_type": "Other / discovered",
     "posted_at": "",
-    "first_seen": "2026-11-16",
-    "last_seen": "2026-11-27",
-    "opening": "Listed",
-    "misses": 0
-  },
-  {
-    "id": "4ca2711c78449552",
-    "company": "HP IQ",
-    "title": "Product Design Engineering Intern (Summer 2027)",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6141235004",
-    "source": "Employer ATS",
-    "source_key": "greenhouse:hpiq",
-    "summary": "Who We Are HP IQ is HP’s new AI innovation lab. Combining startup agility with HP’s global scale, we’re building intelligent technologies that redefine how the world works, creates, and collaborates. We’re assembling a diverse, world-class team—engineers, designers, researchers, and product minds—focused on creating an intelligent ecosystem across HP’s portfolio. Together, we’re developing intuitive, adaptive solutions that spark creativity, boos",
-    "score": 44,
-    "category": "Broad EE",
-    "tags": [
-      "Broad EE"
-    ],
-    "eligibility": "See restriction columns",
-    "citizenship_requirement": "Not stated",
-    "export_control": "Not stated",
-    "security_clearance": "Not stated",
-    "visa_sponsorship": "Not stated",
-    "eligibility_evidence": "regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical",
-    "company_type": "Startup watch",
-    "posted_at": "2026-10-26",
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-27",
     "opening": "Listed",
@@ -5664,7 +5694,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 28
+    "misses": 29
   },
   {
     "id": "b354554846881e08",
@@ -5694,7 +5724,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 25
+    "misses": 26
   },
   {
     "id": "9f5cdb50fefe830d",
@@ -5724,7 +5754,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 29
+    "misses": 30
   },
   {
     "id": "25b31f64ed63bafb",
@@ -5754,7 +5784,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 26
+    "misses": 27
   },
   {
     "id": "41482c318f757ed5",
@@ -5784,7 +5814,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "ead55d4137cbf6d7",
@@ -5844,7 +5874,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "c5b2c4818253dae1",
@@ -5872,7 +5902,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "f200d44d13b244b5",
@@ -5902,7 +5932,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-19",
     "opening": "Check opening",
-    "misses": 22
+    "misses": 23
   },
   {
     "id": "6d9b741766044b7a",
@@ -5932,7 +5962,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 19
+    "misses": 20
   },
   {
     "id": "5493609e507397a7",
@@ -5960,7 +5990,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 27
+    "misses": 28
   },
   {
     "id": "34de9be4aabe9182",
@@ -6073,7 +6103,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 30
+    "misses": 31
   },
   {
     "id": "8c3e6ad1864c5c3e",
@@ -6101,7 +6131,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 14
+    "misses": 15
   },
   {
     "id": "1af8612d28688df1",
@@ -6160,7 +6190,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "567a73cfe6e9bae3",
@@ -6188,7 +6218,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 18
+    "misses": 19
   },
   {
     "id": "4ce8193bde7d3775",
@@ -6218,7 +6248,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 29
+    "misses": 30
   },
   {
     "id": "96b1c86ee42fb95b",
@@ -6248,7 +6278,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "03ec6014a6da6a0f",
@@ -6275,7 +6305,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "c88591e6b43ecedb",
@@ -6305,7 +6335,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 28
+    "misses": 29
   },
   {
     "id": "356003dfc9b6245d",
@@ -6332,7 +6362,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-18",
     "opening": "Check opening",
-    "misses": 26
+    "misses": 27
   },
   {
     "id": "04bb412e17b53748",
@@ -6360,7 +6390,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 29
+    "misses": 30
   },
   {
     "id": "e138a36514718098",
@@ -6387,7 +6417,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "4206365e54097fab",
@@ -6414,7 +6444,7 @@
     "first_seen": "2026-11-19",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 18
+    "misses": 19
   },
   {
     "id": "53b8b4ff028aca37",
@@ -6497,7 +6527,7 @@
     "first_seen": "2026-11-20",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "5ac946df952a4a0d",
@@ -6524,7 +6554,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 30
+    "misses": 31
   },
   {
     "id": "687d05e92c1de7f2",
@@ -6551,7 +6581,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "237c1a12c09965ac",
@@ -6578,7 +6608,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "0063a0266825a7c9",
@@ -6605,7 +6635,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 18
+    "misses": 19
   },
   {
     "id": "80424ff96460d947",
@@ -6632,7 +6662,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 30
+    "misses": 31
   },
   {
     "id": "ba4d42629ca76886",
@@ -6659,7 +6689,7 @@
     "first_seen": "2026-11-17",
     "last_seen": "2026-11-25",
     "opening": "Check opening",
-    "misses": 5
+    "misses": 6
   },
   {
     "id": "2495324cf621a408",
@@ -6686,7 +6716,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 30
+    "misses": 31
   },
   {
     "id": "b8a725c6c768ed1d",
@@ -6713,7 +6743,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-16",
     "opening": "Check opening",
-    "misses": 31
+    "misses": 32
   },
   {
     "id": "740497a61cf70803",
@@ -6741,7 +6771,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 20
+    "misses": 21
   },
   {
     "id": "233a932e5d56b8db",
@@ -6769,7 +6799,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-25",
     "opening": "Check opening",
-    "misses": 3
+    "misses": 4
   },
   {
     "id": "c78272fcc3690f8f",
@@ -6796,7 +6826,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "b9de181f4e04efd8",
@@ -6823,7 +6853,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "07013df6b76ed124",
@@ -6850,7 +6880,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 8
+    "misses": 9
   },
   {
     "id": "760da63e72113138",
@@ -6877,7 +6907,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "9a10f50cab95c1f5",
@@ -6904,7 +6934,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 21
+    "misses": 22
   },
   {
     "id": "3ad82208eb8239bf",
@@ -6931,7 +6961,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-17",
     "opening": "Check opening",
-    "misses": 30
+    "misses": 31
   },
   {
     "id": "b94ad5bf96ef523e",
@@ -6958,7 +6988,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-22",
     "opening": "Check opening",
-    "misses": 11
+    "misses": 12
   },
   {
     "id": "ee43bfd36200193a",
@@ -6985,7 +7015,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-23",
     "opening": "Check opening",
-    "misses": 9
+    "misses": 10
   },
   {
     "id": "fd041960149049d0",
@@ -7010,7 +7040,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-24",
     "opening": "Check opening",
-    "misses": 7
+    "misses": 8
   },
   {
     "id": "d5d5281809d1eb1d",
@@ -7035,7 +7065,7 @@
     "first_seen": "2026-11-16",
     "last_seen": "2026-11-20",
     "opening": "Check opening",
-    "misses": 19
+    "misses": 20
   },
   {
     "id": "e5d3862136ac6c76",
