@@ -9,7 +9,7 @@
     "source": "Apex Technology",
     "type": "ashby",
     "status": "OK",
-    "rows": 143
+    "rows": 141
   },
   {
     "source": "Etched",
@@ -57,13 +57,13 @@
     "source": "Simplify Summer 2027",
     "type": "community",
     "status": "OK",
-    "rows": 186
+    "rows": 185
   },
   {
     "source": "Anduril",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2600
+    "rows": 2599
   },
   {
     "source": "Astranis",
@@ -105,7 +105,7 @@
     "source": "Muon Space",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 128
+    "rows": 129
   },
   {
     "source": "Pacific Fusion",
@@ -123,7 +123,7 @@
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 554
+    "rows": 553
   },
   {
     "source": "SpaceX",
