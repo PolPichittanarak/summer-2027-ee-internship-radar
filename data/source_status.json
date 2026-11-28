@@ -57,13 +57,13 @@
     "source": "Simplify Summer 2027",
     "type": "community",
     "status": "OK",
-    "rows": 186
+    "rows": 192
   },
   {
     "source": "Anduril",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2599
+    "rows": 2598
   },
   {
     "source": "Astranis",
@@ -123,13 +123,13 @@
     "source": "Rocket Lab",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 552
+    "rows": 556
   },
   {
     "source": "SpaceX",
     "type": "greenhouse",
     "status": "OK",
-    "rows": 2890
+    "rows": 2891
   },
   {
     "source": "Stoke Space",
